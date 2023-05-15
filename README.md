@@ -26,8 +26,8 @@
     <li>Navigate to ‘Trakt Account’ and select ‘Authorize’ to pair your account</li>
     <li>Once Account Manager authorization is complete the user has two choices on how to authorize their add-ons</li>
 </ul>
-    1.  Sync All Add-ons – This will sync your Trakt account with all supported add-ons that are currently installed<br>
-    2.  Sync Individual Add-ons – Choose add-ons to authorize from the list of supported add-ons<br><br>
+<pre>1.  Sync All Add-ons – This will sync your Trakt account with all supported add-ons that are currently installed<br>
+     2.  Sync Individual Add-ons – Choose add-ons to authorize from the list of supported add-ons</pre><br><br>
 
 
 ### Authorize Built-in Commands:
