@@ -3,7 +3,7 @@
 ### How the addon works:
 - Once authorization is complete a check is done for each supported addon to confirm if the addon is installed and if settings.xml exists for that addon.
 - If both of these checks are true your Trakt & Debrid data is retrieved from Account Manager and applied to the supported addons.
-- A backup is then performed to save all Trakt & Debrid data for all authorized add-ons.<br>
+- A backup is then performed to save all Trakt & Debrid data for all authorized add-ons.<br><br>
 
 ### Note for users/builders:
 - For Account Manager to function correctly you need to ensure the directories containing the settings.xml for each supported addon are present in the addon_data directory
@@ -25,8 +25,8 @@
     <li>Open Account Manager</li>
     <li>Navigate to ‘Trakt Account’ and select ‘Authorize’ to pair your account</li>
     <li>Once Account Manager authorization is complete the user has two choices on how to authorize their add-ons</li>
-    <li>1. Sync All Add-ons – This will sync your Trakt account with all supported add-ons that are currently installed</li>
-    <li>2. Sync Individual Add-ons – Choose add-ons to authorize from the list of supported add-ons</li><br>
+    1. Sync All Add-ons – This will sync your Trakt account with all supported add-ons that are currently installed
+    2. Sync Individual Add-ons – Choose add-ons to authorize from the list of supported add-ons<br>
 </ul>
 
 
@@ -45,7 +45,7 @@ RunScript(script.module.myaccts, action=alldebridAuth)</p>
 RunScript(script.module.myaccts, action=traktAuth)</p><br>
 
 
-###Revoke All Add-ons Built-in Commands:
+### Revoke All Add-ons Built-in Commands:
 
 <p>Real-Debrid<br>
 PlayMedia(plugin://script.module.myauth/?mode=addondebrid_rd&name=all)</p>
