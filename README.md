@@ -7,7 +7,7 @@
 
 ### Note for users/builders:
 - For Account Manager to function correctly you need to ensure the directories containing the settings.xml for each supported addon are present in the addon_data directory
-- Some addons do not create the settings.xml after installation. To create it the user first has to open the addon settings menu and then choose 'ok' for the file to be created. If it's not present Account Manager simply does nothing and moves on to the next addon. So, make sure to add these to your build.<br>
+- Some addons do not create the settings.xml after installation. To create it the user first has to open the addon settings menu and then choose 'ok' for the file to be created. If it's not present Account Manager simply does nothing and moves on to the next addon. So, make sure to add these to your build.<br><br>
 
 
 ### How to Authorize Debrid:
