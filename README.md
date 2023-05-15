@@ -7,7 +7,7 @@
 
 ### Note for users/builders:
 - For Account Manager to function correctly you need to ensure the directories containing the settings.xml for each supported addon are present in the addon_data directory
-- Some addons do not create the settings.xml after installation. To create it the user first has to open the addon settings menu and then choose 'ok' for the file to be created. If it's not present Account Manager simply does nothing and moves on to the next addon. So, make sure to add these to your build.
+- Some addons do not create the settings.xml after installation. To create it the user first has to open the addon settings menu and then choose 'ok' for the file to be created. If it's not present Account Manager simply does nothing and moves on to the next addon. So, make sure to add these to your build.<br>
 
 
 ### How to Authorize Debrid:
@@ -26,7 +26,7 @@
     <li>Navigate to ‘Trakt Account’ and select ‘Authorize’ to pair your account</li>
     <li>Once Account Manager authorization is complete the user has two choices on how to authorize their add-ons</li>
     <li>1. Sync All Add-ons – This will sync your Trakt account with all supported add-ons that are currently installed</li>
-    <li>2. Sync Individual Add-ons – Choose add-ons to authorize from the list of supported add-ons</li>
+    <li>2. Sync Individual Add-ons – Choose add-ons to authorize from the list of supported add-ons</li><br>
 </ul>
 
 
@@ -39,7 +39,7 @@ RunScript(script.module.myaccts, action=realdebridAuth)</p>
 RunScript(script.module.myaccts, action=premiumizeAuth)</p>
 
 <p>AllDebrid<br>
-RunScript(script.module.myaccts, action=alldebridAuth)</p><br>
+RunScript(script.module.myaccts, action=alldebridAuth)</p>
 
 <p>Trakt<br>
 RunScript(script.module.myaccts, action=traktAuth)</p><br>
@@ -54,7 +54,7 @@ PlayMedia(plugin://script.module.myauth/?mode=addondebrid_rd&name=all)</p>
 PlayMedia(plugin://script.module.myauth/?mode=addondebrid_pm&name=all)</p>
 
 <p>AllDebrid<br>
-PlayMedia(plugin://script.module.myauth/?mode=addondebrid_ad&name=all)</p><br>
+PlayMedia(plugin://script.module.myauth/?mode=addondebrid_ad&name=all)</p>
 
 <p>Trakt<br>
 PlayMedia(plugin://script.module.myauth/?mode=addontrakt&name=all)</p><br>
@@ -69,10 +69,10 @@ RunScript(script.module.myaccts, action=realdebridSync)</p>
 RunScript(script.module.myaccts, action=premiumizeSync)</p>
 
 <p>AllDebrid<br>
-RunScript(script.module.myaccts, action=alldebridSync)</p><br><br>
+RunScript(script.module.myaccts, action=alldebridSync)</p>
 
 <p>Trakt<br>
-RunScript(script.module.myaccts, action=traktSync)</p><br><br>
+RunScript(script.module.myaccts, action=traktSync)</p><br>
 
 
 ### View Your Authorized Add-ons Built-in Commands:<br>
@@ -86,10 +86,10 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=realdebrid,return)</p>
 ActivateWindow(10001,plugin://script.module.myauth/?mode=premiumize,return)</p>
 
 <p>AllDebrid<br>
-ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)</p><br><br>
+ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)</p>
 
 <p>Trakt<br>
-ActivateWindow(10001,plugin://script.module.myauth/?mode=trakt,return)</p><br><br>
+ActivateWindow(10001,plugin://script.module.myauth/?mode=trakt,return)</p><br>
 
 
 ### Backup Trakt & debrid Data:
@@ -97,7 +97,7 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=trakt,return)</p><br><b
 - The default backup path can be changed by the user via the Accounts Manager settings menu
 
 <p>Default Backup Path<br>
-special://userdata/addon_data/script.module.myaccts/</p>
+special://userdata/addon_data/script.module.myaccts/</p><br>
 
 
 ### Supported Debrid Addons:
