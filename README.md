@@ -13,7 +13,7 @@
 ### How to Authorize Debrid:
 <ul>
     <li>Open Account Manager</li>
-    <li>Navigate to ‘Accounts’ and choose your debrid service(s)</li>
+    <li>Navigate to the ‘Accounts’ category and choose your debrid service(s)</li>
     <li>Select 'Authorize' and proceed to pair your account</li>
     <li>Wait for the 'Sync is complete' notification and choose 'OK' to exit</li>
     <li>All supported add-ons are now authorized!</li><br>
@@ -24,7 +24,7 @@
 <ul>
     <li>Open Account Manager</li>
     <li>Navigate to the ‘Accounts’ category and select ‘Authorize’ to pair your account</li>
-    <li>Wait for the 'Sync is complete' notification and when prompted choose OK to force close Kodi</li>
+    <li>Wait for the 'Sync is complete' notification and when prompted choose 'OK' to force close Kodi</li>
     <li>All supported add-ons are now authorized!</li><br>
 </ul>
 
@@ -94,7 +94,7 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=trakt,return)</p><br>
 ### Backup Trakt & debrid Data:
 
 - During authorization of your Trakt or Debrid account a one time backup is completed to save your data for all add-ons
-- The default backup path can be changed by the user at any time via the Accounts Manager settings menu. For builders i'd recommend your wizard data path for backups
+- The default backup path can be changed at any time by the user via the Account Manager settings menu. For builders i'd recommend your wizard data path for backups
 - If the path is changed make sure to complete another backup
 
 <p>Default Backup Path<br>
