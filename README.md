@@ -3,7 +3,7 @@
 ### How the addon works:
 - Once authorization is complete a check is done for each supported addon to confirm if the addon is installed and if settings.xml exists for that addon.
 - If both of these checks are true your Trakt & Debrid data is retrieved from Account Manager and applied to the supported addons.
-- A backup is then performed to save all Trakt & Debrid data for all authorized add-ons.<br><br>
+- During the authorization process a one time backup is performed to save all Trakt & Debrid data to the default backup directory.<br><br>
 
 ### Note for users/builders:
 - For Account Manager to function correctly you need to ensure the directories containing the settings.xml for each supported addon are present in the addon_data directory
@@ -13,7 +13,7 @@
 ### How to Authorize Debrid:
 <ul>
     <li>Open Account Manager</li>
-    <li>Navigate to ‘Debrid Accounts’ and choose your debrid service(s)</li>
+    <li>Navigate to ‘Accounts’ and choose your debrid service(s)</li>
     <li>Select 'Authorize' and proceed to pair your account</li>
     <li>Wait for the 'Sync is complete' notification and choose 'OK' to exit</li>
     <li>All supported add-ons are now authorized!</li><br>
@@ -23,11 +23,10 @@
 ### How to Authorize Trakt:
 <ul>
     <li>Open Account Manager</li>
-    <li>Navigate to ‘Trakt Account’ and select ‘Authorize’ to pair your account</li>
-    <li>Once Account Manager authorization is complete the user has two choices on how to authorize their add-ons</li>
+    <li>Navigate to the ‘Accounts’ category and select ‘Authorize’ to pair your account</li>
+    <li>Wait for the 'Sync is complete' notification and when prompted choose OK to force close Kodi</li>
+    <li>All supported add-ons are now authorized!</li><br>
 </ul>
-&nbsp; 1.&nbsp; &nbsp;Sync All Add-ons – This will sync your Trakt account with all supported add-ons that are currently installed<br>
-&nbsp; 2.&nbsp; &nbsp;Sync Individual Add-ons – Choose add-ons to authorize from the list of supported add-ons</pre><br><br>
 
 
 ### Authorize Built-in Commands:
@@ -72,7 +71,7 @@ RunScript(script.module.myaccts, action=premiumizeSync)</p>
 RunScript(script.module.myaccts, action=alldebridSync)</p>
 
 <p>Trakt<br>
-RunScript(script.module.myaccts, action=traktSync)</p><br>
+RunScript(script.module.myaccts, action=traktReSync)</p><br>
 
 
 ### View Your Authorized Add-ons Built-in Commands:<br>
@@ -94,7 +93,9 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=trakt,return)</p><br>
 
 ### Backup Trakt & debrid Data:
 
-- The default backup path can be changed by the user via the Accounts Manager settings menu
+- During authorization of your Trakt or Debrid account a one time backup is completed to save your data for all add-ons
+- The default backup path can be changed by the user at any time via the Accounts Manager settings menu. For builders i'd recommend your wizard data path for backups
+- If the path is changed make sure to complete another backup
 
 <p>Default Backup Path<br>
 special://userdata/addon_data/script.module.myaccts/</p><br>
