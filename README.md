@@ -137,6 +137,6 @@ special://userdata/addon_data/script.module.myaccts/</p><br>
 10. Shazam<br>             
 11. Nightwing<br> 
 12. The Promise<br>
-13. Alvin
-14. Scrubs V2
+13. Alvin<br>
+14. Scrubs V2<br>
 13. My Accounts
