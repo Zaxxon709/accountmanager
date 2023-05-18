@@ -132,17 +132,18 @@ special://userdata/addon_data/script.module.myaccts/</p><br>
 5.  Fen<br>
 6.  POV<br>                   
 7.  Umbrella<br>             
-8.  Homelander<br>               
+8.  Homelander<br>
+9.  Chains Genocide<br>               
 9.  The Crew<br>                  
 10. Shazam<br>             
 11. Nightwing<br> 
 12. The Promise<br>
 13. Alvin<br>
 14. Scrubs V2<br>
-15. Shadow
-16. Ghost
-17. Unleashed
-18. Chain Reaction
-19. Magic Dragon
-20. Asgard
+15. Shadow<br>
+16. Ghost<br>
+17. Unleashed<br>
+18. Chain Reaction<br>
+19. Magic Dragon<br>
+20. Asgard<br>
 21. My Accounts
