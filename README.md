@@ -139,4 +139,10 @@ special://userdata/addon_data/script.module.myaccts/</p><br>
 12. The Promise<br>
 13. Alvin<br>
 14. Scrubs V2<br>
-13. My Accounts
+15. Shadow
+16. Ghost
+17. Unleashed
+18. Chain Reaction
+19. Magic Dragon
+20. Asgard
+21. My Accounts
