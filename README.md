@@ -6,7 +6,7 @@
 - During the authorization process a one time backup is also performed to save all Trakt & Debrid data to the default backup directory.<br><br>
 
 ### Note for users/builders:
-- For Account Manager to function correctly you need to ensure the directories containing the settings.xml for each supported addon are present in the addon_data directory
+- For Account Manager to function correctly you need to ensure the directories containing the settings.xml for each supported addon are present in the addon_data directory.
 - Some addons do not create the settings.xml after installation. To create it the user first has to open the addon settings menu and then choose 'ok' for the file to be created. If it's not present Account Manager simply does nothing and moves on to the next addon. So, make sure to add these to your build.<br><br>
 
 ### Supported Services:
@@ -98,9 +98,9 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=trakt,return)</p><br>
 
 ### Backup Trakt & debrid Data:
 
-- During authorization of your Trakt or Debrid account a one time backup is completed to save your data for all add-ons
-- The default backup path can be changed at any time by the user via the Account Manager settings menu. For builders i'd recommend your wizard data path for backups
-- If the path is changed make sure to complete another backup
+- The options to backup, restore and clear data can be found in Account Manager's settings menu.
+- The default backup path can also be changed by the user at any time via the Account Manager settings menu. For builders i'd recommend your wizard data path for backups. If the default path is changed make sure to complete another backup.
+- During the authorization process of either your Trakt or Debrid accounts a one time backup is automatically completed to save your current data for all add-ons.
 
 <p>Default Backup Path<br>
 special://userdata/addon_data/script.module.myaccts/</p><br>
