@@ -96,11 +96,10 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)</p>
 ActivateWindow(10001,plugin://script.module.myauth/?mode=trakt,return)</p><br>
 
 
-### Backup Trakt & debrid Data:
+### Backup/Restore Trakt & debrid Data:
 
 - The options to backup, restore and clear data can be found in Account Manager's settings menu.
 - The default backup path can also be changed by the user at any time via the Account Manager settings menu. For builders i'd recommend your wizard data path for backups. If the default path is changed make sure to complete another backup.
-- During the authorization process of either your Trakt or Debrid accounts a one time backup is automatically completed to save your current data for all add-ons.
 
 <p>Default Backup Path<br>
 special://userdata/addon_data/script.module.myaccts/</p><br>
