@@ -79,7 +79,7 @@ RunScript(script.module.myaccts, action=alldebridSync)</p>
 RunScript(script.module.myaccts, action=traktReSync)</p><br>
 
 
-### View Your Authorized Add-ons Built-in Commands:<br>
+### View Authorized Add-ons Built-in Commands:<br>
 
 - This allows the user to view what addons are currently authorized
 
