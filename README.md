@@ -49,21 +49,6 @@ RunScript(script.module.myaccts, action=alldebridAuth)</p>
 RunScript(script.module.myaccts, action=traktAuth)</p><br>
 
 
-### Revoke All Add-ons Built-in Commands:
-
-<p>Real-Debrid<br>
-PlayMedia(plugin://script.module.myauth/?mode=addondebrid_rd&name=all)</p>
-
-<p>Premiumize<br>
-PlayMedia(plugin://script.module.myauth/?mode=addondebrid_pm&name=all)</p>
-
-<p>AllDebrid<br>
-PlayMedia(plugin://script.module.myauth/?mode=addondebrid_ad&name=all)</p>
-
-<p>Trakt<br>
-PlayMedia(plugin://script.module.myauth/?mode=addontrakt&name=all)</p><br>
-
-
 ### Sync All Add-ons Built-in Commands:<br>
 
 <p>Real-Debrid<br>
@@ -77,6 +62,21 @@ RunScript(script.module.myaccts, action=alldebridSync)</p>
 
 <p>Trakt<br>
 RunScript(script.module.myaccts, action=traktReSync)</p><br>
+
+
+### Revoke All Add-ons Built-in Commands:
+
+<p>Real-Debrid<br>
+PlayMedia(plugin://script.module.myauth/?mode=addondebrid_rd&name=all)</p>
+
+<p>Premiumize<br>
+PlayMedia(plugin://script.module.myauth/?mode=addondebrid_pm&name=all)</p>
+
+<p>AllDebrid<br>
+PlayMedia(plugin://script.module.myauth/?mode=addondebrid_ad&name=all)</p>
+
+<p>Trakt<br>
+PlayMedia(plugin://script.module.myauth/?mode=addontrakt&name=all)</p><br>
 
 
 ### View Authorized Add-ons Built-in Commands:<br>
