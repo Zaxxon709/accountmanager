@@ -13,7 +13,7 @@
 - Real-Debrid
 - Premiumize
 - All-Debrid
-- Trakt
+- Trakt<br><br>
 
 ### How to Authorize Debrid:
 <ul>
