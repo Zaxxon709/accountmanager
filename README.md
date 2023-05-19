@@ -101,8 +101,7 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=trakt,return)</p><br>
 - The options to backup, restore and clear data can be found in Account Manager's settings menu.
 - The default backup path can also be changed by the user at any time via the Account Manager settings menu. For builders i'd recommend your wizard data path for backups. If the default path is changed make sure to complete another backup.
 
-<p>Default Backup Path<br>
-special://userdata/addon_data/script.module.myaccts/</p><br>
+<p>Default Backup Path = special://userdata/addon_data/script.module.myaccts/</p><br>
 
 
 ### Supported Debrid Addons:
