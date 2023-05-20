@@ -5,15 +5,18 @@
 - If both of these checks are true your Trakt & Debrid data is retrieved from Account Manager and applied to the supported addons.
 - During the authorization process a one time backup is also performed to save all Trakt & Debrid data to the default backup directory.<br><br>
 
+
 ### Note for users/builders:
 - For Account Manager to function correctly you need to ensure the directories containing the settings.xml for each supported addon are present in the addon_data directory.
 - Some addons do not create the settings.xml after installation. To create it the user first has to open the addon settings menu and then choose 'ok' for the file to be created. If it's not present Account Manager simply does nothing and moves on to the next addon. So, make sure to add these to your build.<br><br>
+
 
 ### Supported Services:
 - Real-Debrid
 - Premiumize
 - All-Debrid
 - Trakt<br><br>
+
 
 ### How to Authorize Debrid:
 <ul>
@@ -52,31 +55,16 @@ RunScript(script.module.myaccts, action=traktAuth)</p><br>
 ### Sync All Add-ons Built-in Commands:<br>
 
 <p>Real-Debrid<br>
-RunScript(script.module.myaccts, action=realdebridSync)</p>
+RunScript(script.module.myaccts, action=realdebridReSync)</p>
 
 <p>Premiumize<br>
-RunScript(script.module.myaccts, action=premiumizeSync)</p>
+RunScript(script.module.myaccts, action=premiumizeReSync)</p>
 
 <p>AllDebrid<br>
-RunScript(script.module.myaccts, action=alldebridSync)</p>
+RunScript(script.module.myaccts, action=alldebridReSync)</p>
 
 <p>Trakt<br>
 RunScript(script.module.myaccts, action=traktReSync)</p><br>
-
-
-### Revoke All Add-ons Built-in Commands:
-
-<p>Real-Debrid<br>
-PlayMedia(plugin://script.module.myauth/?mode=addondebrid_rd&name=all)</p>
-
-<p>Premiumize<br>
-PlayMedia(plugin://script.module.myauth/?mode=addondebrid_pm&name=all)</p>
-
-<p>AllDebrid<br>
-PlayMedia(plugin://script.module.myauth/?mode=addondebrid_ad&name=all)</p>
-
-<p>Trakt<br>
-PlayMedia(plugin://script.module.myauth/?mode=addontrakt&name=all)</p><br>
 
 
 ### View Authorized Add-ons Built-in Commands:<br>
