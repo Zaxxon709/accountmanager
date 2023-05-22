@@ -18,7 +18,7 @@
 - The default backup path can also be changed by the user at any time via the Account Manager settings menu.<br>
 - The default path is not perssitent after build updates or fresh starts. For builders i'd recommend your wizard data path for backups. For users i'd recommend whitelisting your backup directory. If the default path is changed make sure to complete another backup.<br>
 
-<p>Default Backup Path = special://userdata/addon_data/script.module.myaccts/</p><br>
+<p>Default Backup Path = special://userdata/addon_data/script.module.myaccts/</p>
 
 
 ### How to Authorize Debrid:
@@ -91,7 +91,7 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=trakt,return)</p><br>
 - Real-Debrid
 - Premiumize
 - All-Debrid
-- Trakt<br><br>
+- Trakt<br>
 
 
 ### Supported Debrid Addons:
