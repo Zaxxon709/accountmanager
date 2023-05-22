@@ -11,11 +11,14 @@
 - Some addons do not create the settings.xml after installation. To create it the user first has to open the addon settings menu and then choose 'ok' for the file to be created. If it's not present Account Manager simply does nothing and moves on to the next addon. So, make sure to add these to your build.<br><br>
 
 
-### Supported Services:
-- Real-Debrid
-- Premiumize
-- All-Debrid
-- Trakt<br><br>
+### Backup/Restore Trakt & debrid Data:
+
+- The options to backup, restore and clear data can be found in Account Manager's settings menu.
+- The backup created during authorization only backs up current installed add-ons. If you decide to add additional supported addons you should create another backup to save data for those add-ons.<br>
+- The default backup path can also be changed by the user at any time via the Account Manager settings menu.<br>
+- The default path is not perssitent after build updates or fresh starts. For builders i'd recommend your wizard data path for backups. For users i'd recommend whitelisting your backup directory. If the default path is changed make sure to complete another backup.<br>
+
+<p>Default Backup Path = special://userdata/addon_data/script.module.myaccts/</p><br>
 
 
 ### How to Authorize Debrid:
@@ -84,14 +87,11 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)</p>
 ActivateWindow(10001,plugin://script.module.myauth/?mode=trakt,return)</p><br>
 
 
-### Backup/Restore Trakt & debrid Data:
-
-- The options to backup, restore and clear data can be found in Account Manager's settings menu.
-- The backup created during authorization only backs up current installed add-ons. If you decide to add additional supported addons you should create another backup to save data for those add-ons.<br>
-- The default backup path can also be changed by the user at any time via the Account Manager settings menu.<br>
-- The default path is not perssitent after build updates or fresh starts. For builders i'd recommend your wizard data path for backups. For users i'd recommend whitelisting your backup directory. If the default path is changed make sure to complete another backup.<br>
-
-<p>Default Backup Path = special://userdata/addon_data/script.module.myaccts/</p><br>
+### Supported Services:
+- Real-Debrid
+- Premiumize
+- All-Debrid
+- Trakt<br><br>
 
 
 ### Supported Debrid Addons:
