@@ -93,7 +93,7 @@ Premiumize<br>
 All-Debrid<br>
 Trakt<br>
 
-- If you use more than one debrid service then these will be all enabled by default. this will allow you to use all at once, if the add-on supports this.<br>
+- If you use more than one debrid service then these will be all enabled by default. This will allow you to use all your services at once, if the add-on supports it.<br>
 
 
 
