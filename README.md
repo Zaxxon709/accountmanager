@@ -88,8 +88,8 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=trakt,return)</p><br>
 
 - The options to backup, restore and clear data can be found in Account Manager's settings menu.
 - The backup created during authorization only backs up current installed add-ons. If you decide to add additional supported addons you should create another backup to save data for those add-ons.<br>
-- The default backup path can also be changed by the user at any time via the Account Manager settings menu. For builders i'd recommend your wizard data path for backups. If the default path is changed make sure to complete another backup.
-
+- The default backup path can also be changed by the user at any time via the Account Manager settings menu.<br>
+- The default path is not perssitent after build updates or fresh starts. For builders i'd recommend your wizard data path for backups. For users i'd recommend whitelisting your backup directory. If the default path is changed make sure to complete another backup.<br>
 
 <p>Default Backup Path = special://userdata/addon_data/script.module.myaccts/</p><br>
 
