@@ -88,10 +88,12 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=trakt,return)</p><br>
 
 
 ### Supported Services:
-- Real-Debrid
-- Premiumize
-- All-Debrid
-- Trakt<br>
+Real-Debrid
+Premiumize
+All-Debrid
+Trakt<br>
+
+- If you use more than one debrid service then these will be all enabled by default. this will allow you to use all at once, if the add-on supports this.<br>
 
 
 ### Supported Debrid Addons:
