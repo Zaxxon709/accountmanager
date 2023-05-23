@@ -1,5 +1,7 @@
 # Account Manager
 
+An add-on to manage your Trakt and Debrid data from one location. Users can pair multiple service(s) with all supported add-ons via a single authorization point and manage the data for these service(s).<br>
+
 ### How the addon works:
 - Once authorization is complete a check is done for each supported addon to confirm if the addon is installed and if settings.xml exists for that addon.
 - If both of these checks are true your Trakt & Debrid data is retrieved from Account Manager and applied to the supported addons.
