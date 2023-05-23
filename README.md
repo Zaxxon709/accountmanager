@@ -1,6 +1,6 @@
 # Account Manager
 
-An add-on to make the painful task of authorizing numerous add-ons effortless. Pair multiple service(s) with Account Managers supported add-ons via a single authorization point and easily manage the data for these service(s).<br>
+An add-on to make the painful task of authorizing numerous add-ons effortless. Pair multiple service(s) with Account Managers supported add-ons via a single authorization point and easily manage the data for these service(s).<br><br>
 
 ### How the addon works:
 - Once authorization is complete a check is done for each supported addon to confirm if the addon is installed and if settings.xml exists for that addon.
