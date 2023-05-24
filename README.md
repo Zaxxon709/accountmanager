@@ -1,6 +1,6 @@
 # Account Manager
 
-An add-on to make the painful task of authorizing numerous add-ons effortless. Pair multiple service(s) with Account Managers supported add-ons via a single authorization point and easily manage the data for these service(s).<br><br>
+An add-on to make the painful task of authorizing numerous add-ons effortless. Pair multiple service(s) with supported add-ons via a single authorization point and easily manage the data for these service(s).<br><br>
 
 ### How the addon works:
 - Once authorization is complete a check is done for each supported addon to confirm if the addon is installed and if settings.xml exists for that addon.
@@ -17,8 +17,8 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 
 - The options to backup, restore and clear data can be found in Account Manager's settings menu.
 - The backup created during authorization only backs up current installed add-ons. If you decide to add additional supported addons you should create another backup to save data for those add-ons.<br>
-- The default backup path can also be changed by the user at any time via the Account Manager settings menu.<br>
 - The default path is not perssitent after build updates or fresh starts. For builders i'd recommend your wizard data path for backups. For users i'd recommend whitelisting your backup directory. If the default path is changed make sure to complete another backup.<br>
+- The default backup path can also be changed by the user at any time via the Account Manager settings menu.<br>
 
 <p>Default Backup Path = special://userdata/addon_data/script.module.myaccts/</p><br>
 
