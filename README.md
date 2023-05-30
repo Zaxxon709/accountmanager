@@ -77,16 +77,16 @@ RunScript(script.module.myaccts, action=traktReSync)</p><br>
 - This allows the user to view what addons are currently authorized
 
 <p>Real-Debrid<br>
-ActivateWindow(10001,plugin://script.module.myauth/?mode=realdebrid,return)</p>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=realdebrid,return)</p>
 
 <p>Premiumize<br>
-ActivateWindow(10001,plugin://script.module.myauth/?mode=premiumize,return)</p>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=premiumize,return)</p>
 
 <p>AllDebrid<br>
-ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)</p>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=alldebrid,return)</p>
 
 <p>Trakt<br>
-ActivateWindow(10001,plugin://script.module.myauth/?mode=trakt,return)</p><br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=trakt,return)</p><br>
 
 
 ### Supported Services:
@@ -133,12 +133,13 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=trakt,return)</p><br>
 10. Shazam<br>             
 11. Nightwing<br> 
 12. The Promise<br>
-13. Alvin<br>
-14. Scrubs V2<br>
-15. Shadow<br>
-16. Ghost<br>
-17. Unleashed<br>
-18. Chain Reaction<br>
-19. Magic Dragon<br>
-20. Asgard<br>
-21. My Accounts
+13. Quicksilver<br>
+14. Alvin<br>
+15. Scrubs V2<br>
+16. Shadow<br>
+17. Ghost<br>
+18. Unleashed<br>
+19. Chain Reaction<br>
+20. Magic Dragon<br>
+21. Asgard<br>
+22. My Accounts
