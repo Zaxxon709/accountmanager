@@ -45,31 +45,31 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 ### Authorize Built-in Commands:
 
 <p>Real-Debrid<br>
-RunScript(script.module.myaccts, action=realdebridAuth)</p>
+RunScript(script.module.accountmgr, action=realdebridAuth)</p>
 
 <p>Premiumize<br>
-RunScript(script.module.myaccts, action=premiumizeAuth)</p>
+RunScript(script.module.accountmgr, action=premiumizeAuth)</p>
 
 <p>AllDebrid<br>
-RunScript(script.module.myaccts, action=alldebridAuth)</p>
+RunScript(script.module.accountmgr, action=alldebridAuth)</p>
 
 <p>Trakt<br>
-RunScript(script.module.myaccts, action=traktAuth)</p><br>
+RunScript(script.module.accountmgr, action=traktAuth)</p><br>
 
 
 ### Sync All Add-ons Built-in Commands:<br>
 
 <p>Real-Debrid<br>
-RunScript(script.module.myaccts, action=realdebridReSync)</p>
+RunScript(script.module.accountmgr, action=realdebridReSync)</p>
 
 <p>Premiumize<br>
-RunScript(script.module.myaccts, action=premiumizeReSync)</p>
+RunScript(script.module.accountmgr, action=premiumizeReSync)</p>
 
 <p>AllDebrid<br>
-RunScript(script.module.myaccts, action=alldebridReSync)</p>
+RunScript(script.module.accountmgr, action=alldebridReSync)</p>
 
 <p>Trakt<br>
-RunScript(script.module.myaccts, action=traktReSync)</p><br>
+RunScript(script.module.accountmgr, action=traktReSync)</p><br>
 
 
 ### View Authorized Add-ons Built-in Commands:<br>
