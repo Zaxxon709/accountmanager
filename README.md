@@ -2,6 +2,11 @@
 
 An add-on to make the painful task of authorizing numerous add-ons effortless. Pair multiple service(s) with supported add-ons via a single authorization point and easily manage the data for these service(s).<br><br>
 
+
+### 709 Nexus Repository
+[![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/Zaxxon709/nexus/main/repository.709-1.0.zip)<br>
+
+
 ### How the addon works:
 - Once authorization is complete a check is done for each supported addon to confirm if the addon is installed and if settings.xml exists for that addon.
 - If both of these checks are true your Trakt & Debrid data is retrieved from Account Manager and applied to the supported addons.
