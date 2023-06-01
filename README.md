@@ -57,7 +57,7 @@ RunScript(script.module.accountmgr, action=alldebridAuth)</p>
 RunScript(script.module.accountmgr, action=traktAuth)</p><br>
 
 
-### Sync All Add-ons Built-in Commands:<br>
+### Sync Built-in Commands:<br>
 
 <p>Real-Debrid<br>
 RunScript(script.module.accountmgr, action=realdebridReSync)</p>
@@ -69,7 +69,10 @@ RunScript(script.module.accountmgr, action=premiumizeReSync)</p>
 RunScript(script.module.accountmgr, action=alldebridReSync)</p>
 
 <p>Trakt<br>
-RunScript(script.module.accountmgr, action=traktReSync)</p><br>
+RunScript(script.module.accountmgr, action=traktReSync)</p>
+
+<p>Sync All Accounts<br>
+RunScript(script.module.accountmgr, action=ReSyncAll)</p><br>
 
 
 ### View Authorized Add-ons Built-in Commands:<br>
