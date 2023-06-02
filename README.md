@@ -96,9 +96,6 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=alldebrid,return)</p>
 <p>Trakt<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=trakt,return)</p>
 
-<p>View Multiple Debrid Accounts<br>
-ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p><br>
-
 
 ### Supported Services:
 1. Real-Debrid<br>
