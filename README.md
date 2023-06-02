@@ -76,7 +76,7 @@ RunScript(script.module.accountmgr, action=alldebridReSync)</p>
 <p>Trakt<br>
 RunScript(script.module.accountmgr, action=traktReSync)</p>
 
-<p>Sync All Accounts<br>
+<p>Sync Multiple Debrid Accounts<br>
 RunScript(script.module.accountmgr, action=ReSyncAll)</p><br>
 
 
@@ -94,7 +94,10 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=premiumize,return)</p
 ActivateWindow(10001,plugin://script.module.acctview/?mode=alldebrid,return)</p>
 
 <p>Trakt<br>
-ActivateWindow(10001,plugin://script.module.acctview/?mode=trakt,return)</p><br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=trakt,return)</p>
+
+<p>View Multiple Debrid Accounts<br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p><br>
 
 
 ### Supported Services:
