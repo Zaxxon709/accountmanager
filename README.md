@@ -6,6 +6,14 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 ### 709 Repository
 [![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/Zaxxon709/nexus/main/repository.709-1.0.zip)<br>
 
+### Instructions for adding this repo's source:
+
+<ul>
+    <li>Open the Kodi File Manager</li>
+    <li>Select "Add source"</li>
+    <li>The path for the source is <code>https://zaxxon709.github.io/repo/</code> (Give it the name "709REPO")</li>
+</ul>  
+
 
 ### How the addon works:
 - Once authorization is complete a check is done for each supported addon to confirm if the addon is installed and if settings.xml exists for that addon.
