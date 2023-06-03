@@ -96,6 +96,9 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=alldebrid,return)</p>
 <p>Trakt<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=trakt,return)</p>
 
+<p>View Multiple Debrid Accounts<br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p><br>
+
 
 ### Supported Services:
 1. Real-Debrid<br>
@@ -129,14 +132,13 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=trakt,return)</p>
 ### Supported Trakt Addons:
 
 1.  TMDb Helper<br>
-2.  Trakt Add-on<br> 
-3.  Seren<br>                   
-4.  Ezra<br>
-5.  Fen<br>
-6.  POV<br>                   
-7.  Umbrella<br>             
-8.  Homelander<br>
-9.  Chains Genocide<br>               
+2.  Trakt Add-on<br>                   
+3.  Ezra<br>
+4.  Fen<br>
+5.  POV<br>                   
+6.  Umbrella<br>             
+7.  Homelander<br>
+8.  Chains Genocide<br>               
 9.  The Crew<br>                  
 10. Shazam<br>             
 11. Nightwing<br> 
