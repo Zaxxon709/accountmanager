@@ -58,34 +58,34 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 ### Authorize Built-in Commands:
 
 <p>Real-Debrid<br>
-RunScript(plugin.program.accountmgr, action=realdebridAuth)</p>
+RunScript(script.module.accountmgr, action=realdebridAuth)</p>
 
 <p>Premiumize<br>
-RunScript(plugin.program.accountmgr, action=premiumizeAuth)</p>
+RunScript(script.module.accountmgr, action=premiumizeAuth)</p>
 
 <p>AllDebrid<br>
-RunScript(plugin.program.accountmgr, action=alldebridAuth)</p>
+RunScript(script.module.accountmgr, action=alldebridAuth)</p>
 
 <p>Trakt<br>
-RunScript(plugin.program.accountmgr, action=traktAuth)</p><br>
+RunScript(script.module.accountmgr, action=traktAuth)</p><br>
 
 
 ### Sync Built-in Commands:<br>
 
 <p>Real-Debrid<br>
-RunScript(plugin.program.accountmgr, action=realdebridReSync)</p>
+RunScript(script.module.accountmgr, action=realdebridReSync)</p>
 
 <p>Premiumize<br>
-RunScript(plugin.program.accountmgr, action=premiumizeReSync)</p>
+RunScript(script.module.accountmgr, action=premiumizeReSync)</p>
 
 <p>AllDebrid<br>
-RunScript(plugin.program.accountmgr, action=alldebridReSync)</p>
+RunScript(script.module.accountmgr, action=alldebridReSync)</p>
 
 <p>Trakt<br>
-RunScript(plugin.program.accountmgr, action=traktReSync)</p>
+RunScript(script.module.accountmgr, action=traktReSync)</p>
 
 <p>Sync Multiple Debrid Accounts<br>
-RunScript(plugin.program.accountmgr, action=ReSyncAll)</p><br>
+RunScript(script.module.accountmgr, action=ReSyncAll)</p><br>
 
 
 ### View Authorized Add-ons Built-in Commands:<br>
@@ -93,19 +93,19 @@ RunScript(plugin.program.accountmgr, action=ReSyncAll)</p><br>
 - This allows the user to view what addons are currently authorized
 
 <p>Real-Debrid<br>
-ActivateWindow(10001,plugin://script.module.acctviewer/?mode=realdebrid,return)</p>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=realdebrid,return)</p>
 
 <p>Premiumize<br>
-ActivateWindow(10001,plugin://script.module.acctviewer/?mode=premiumize,return)</p>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=premiumize,return)</p>
 
 <p>AllDebrid<br>
-ActivateWindow(10001,plugin://script.module.acctviewer/?mode=alldebrid,return)</p>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=alldebrid,return)</p>
 
 <p>Trakt<br>
-ActivateWindow(10001,plugin://script.module.acctviewer/?mode=trakt,return)</p>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=trakt,return)</p>
 
 <p>View Multiple Debrid Accounts<br>
-ActivateWindow(10001,plugin://script.module.acctviewer/?mode=allaccts,return)</p><br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p><br>
 
 
 ### Supported Services:
