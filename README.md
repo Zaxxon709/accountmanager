@@ -138,28 +138,28 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p><
 
 
 ### Supported Trakt Addons:
-
-1.  TMDb Helper<br>
-2.  Trakt Add-on<br>                   
-3.  Ezra<br>
-4.  Fen<br>
-5.  POV<br>                   
-6.  Umbrella<br>             
-7.  Homelander<br>
-8.  Chains Genocide<br>               
-9.  The Crew<br>                  
-10. Shazam<br>             
-11. Nightwing<br> 
-12. The Promise<br>
+                  
+1.  Ezra<br>
+2.  Fen<br>
+3.  POV<br>                   
+4.  Umbrella<br>
+5.  Shadow<br>
+6.  Ghost<br>
+7.  Unleashed<br>            
+8.  Chain Reaction<br>
+9.  Base 19<br> 
+10. Magic Dragon<br>
+11. Asgard<br>
+12. Homelander<br> 
 13. Quicksilver<br>
-14. Alvin<br>
-15. Moria<br>
-16. Scrubs V2<br>
-17. Shadow<br>
-18. Ghost<br>
-19. Base 19<br>
-20. Unleashed<br>
-21. Chain Reaction<br>
-22. Magic Dragon<br>
-23. Asgard<br>
+14. Chains Genocide<br>           
+15. Shazam<br>
+16. The Promise<br>
+17. The Crew<br>              
+18. Nightwing<br> 
+19. Alvin<br>
+20. Moria<br>
+21. Scrubs V2<br>
+22. TMDb Helper<br>
+23. Trakt Add-on<br> 
 24. My Accounts
