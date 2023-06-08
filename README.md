@@ -21,16 +21,16 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 - During the authorization process a one time backup is also performed to save all Trakt & Debrid data to the default backup directory.<br>
 
 
-### Note for users/builders:
-- For Account Manager to function correctly you need to ensure the directories containing the settings.xml for each supported addon are present in the addon_data directory.
-- Some addons do not create the settings.xml after installation. To create it the user first has to open the addon settings menu and then choose 'ok' for the file to be created. If it's not present Account Manager simply does nothing and moves on to the next addon. So, make sure to add these to your build.
-- You'll find the option to use Custom Trakt API keys in the add-ons settings menu. I would appreciate it if builders would add their own keys to Account Manager prior to uploading their builds.<br>
-
-
 ### Support for Custom API Keys:
 - Support has been added for your own Custom Trakt API keys. If you have your own keys, please use them. If you do not have keys then head on over to the Trakt website using the link below and create them.<br>
 
 <code>https://trakt.tv/oauth/applications/new</code>
+
+
+### Note for users/builders:
+- For Account Manager to function correctly you need to ensure the directories containing the settings.xml for each supported addon are present in the addon_data directory.
+- Some addons do not create the settings.xml after installation. To create it the user first has to open the addon settings menu and then choose 'ok' for the file to be created. If it's not present Account Manager simply does nothing and moves on to the next addon. So, make sure to add these to your build.
+- You'll find the option to use Custom Trakt API keys in the add-ons settings menu. I would appreciate it if builders would add their own keys to Account Manager prior to uploading their builds.<br>
 
 
 ### Backup/Restore Trakt & debrid Data:
