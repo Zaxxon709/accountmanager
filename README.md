@@ -18,7 +18,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 ### How the addon works:
 - Once authorization is complete a check is done for each supported addon to confirm if the addon is installed and if settings.xml exists for that addon.
 - If both of these checks are true your Trakt & Debrid data is retrieved from Account Manager and applied to the supported addons.
-- During the authorization process a one time backup is also performed to save all Trakt & Debrid data to the default backup directory.<br><br>
+- During the authorization process a one time backup is also performed to save all Trakt & Debrid data to the default backup directory.<br>
 
 ### Support for Custom API's:
 - Support has been added for your own Custom API keys. If you have your own keys, please use them. If you do not have keys then head on over to the Trakt website and create them.<br><br>
