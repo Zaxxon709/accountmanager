@@ -20,6 +20,10 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 - If both of these checks are true your Trakt & Debrid data is retrieved from Account Manager and applied to the supported addons.
 - During the authorization process a one time backup is also performed to save all Trakt & Debrid data to the default backup directory.<br><br>
 
+### Support for Custom API's:
+- Support has been added for your own Custom API keys. If you have your own keys, please use them. If you do not have keys then head on over to the Trakt website and create them.<br><br>
+
+<code>https://trakt.tv/oauth/applications/new</code>
 
 ### Note for users/builders:
 - For Account Manager to function correctly you need to ensure the directories containing the settings.xml for each supported addon are present in the addon_data directory.
