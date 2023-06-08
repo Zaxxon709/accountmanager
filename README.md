@@ -21,7 +21,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 - During the authorization process a one time backup is also performed to save all Trakt & Debrid data to the default backup directory.<br>
 
 ### Support for Custom API's:
-- Support has been added for your own Custom API keys. If you have your own keys, please use them. If you do not have keys then head on over to the Trakt website and create them.<br><br>
+- Support has been added for your own Custom API keys. If you have your own keys, please use them. If you do not have keys then head on over to the Trakt website using the link below and create them.<br>
 
 <code>https://trakt.tv/oauth/applications/new</code>
 
