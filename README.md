@@ -40,7 +40,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 - The default path is not persistent after build updates or fresh starts. For builders i'd recommend your wizard data path for backups. For users i'd recommend whitelisting your backup directory. If the default path is changed make sure to complete another backup.<br>
 - The default backup path can also be changed by the user at any time via the Account Manager settings menu.<br>
 
-<p>Default Backup Path = special://userdata/addon_data/plugin.program.accountmgr/</p><br>
+<p>Default Backup Path = special://userdata/addon_data/plugin.program.accountmgr/</p>
 
 
 ### Restore all Add-ons to Default:
