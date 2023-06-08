@@ -43,6 +43,15 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 <p>Default Backup Path = special://userdata/addon_data/plugin.program.accountmgr/</p><br>
 
 
+### Restore all Add-ons to Default:
+<ul>
+    <li>WARNING! Use only to restore system to default settings.</li>
+    <li>Open Account Manager and Navigate to the ‘Advanced’ category.
+    <li>Select ‘Restore Default Settings'</li>
+    <li>This action will delete all your saved data, revoke all add-ons and reset all supported add-ons back to default.</li><br>
+</ul>
+
+
 ### How to Authorize Debrid:
 <ul>
     <li>Open Account Manager</li>
