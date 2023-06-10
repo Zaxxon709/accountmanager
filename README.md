@@ -147,10 +147,16 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p><
 12. Magic Dragon<br>
 13. Asgard<br>
 14. M.E.T.V<br>
-15. Premiumizer<br>
-16. Realizer<br>
-17. My Accounts<br>
-18. ResolveURL
+15. Aliunde<br>
+16. Adina<br>
+17. Artemis<br>
+18. Dynasty<br>
+19. Loonatics Empire<br>
+20. Premiumizer<br>
+21. Realizer<br>
+22. My Accounts<br>
+23. Your Accounts<br>
+24. ResolveURL
 
 
 ### Supported Trakt Addons:
@@ -166,16 +172,18 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p><
 9.  Base 19<br> 
 10. Magic Dragon<br>
 11. Asgard<br>
-12. Homelander<br> 
-13. Quicksilver<br>
-14. Chains Genocide<br>           
-15. Shazam<br>
-16. The Promise<br>
-17. The Crew<br>              
-18. Nightwing<br> 
-19. Alvin<br>
-20. Moria<br>
-21. Scrubs V2<br>
-22. TMDb Helper<br>
-23. Trakt Add-on<br> 
-24. My Accounts
+12. Patriot<br>
+13. Homelander<br> 
+14. Quicksilver<br>
+15. Chains Genocide<br>           
+16. Shazam<br>
+17. The Promise<br>
+18. The Crew<br>              
+19. Nightwing<br> 
+20. Alvin<br>
+21. Moria<br>
+22. Nine Lives<br>
+23. Scrubs V2<br>
+24. TMDb Helper<br>
+25. Trakt Add-on<br>
+26. My Accounts
