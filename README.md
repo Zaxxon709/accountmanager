@@ -33,7 +33,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 - You'll find the option to use Custom Trakt API keys in the add-ons settings menu. I would appreciate it if builders would add their own keys to Account Manager prior to uploading their builds.<br>
 
 
-### Backup/Restore Trakt & debrid Data:
+### Backup/Restore Data:
 
 - The options to backup, restore and clear data can be found in Account Manager's settings menu.
 - The backup created during authorization only backs up current installed add-ons. If you decide to add additional supported addons you should create another backup to save data for those add-ons.<br>
@@ -85,6 +85,9 @@ RunScript(script.module.accountmgr, action=alldebridAuth)</p>
 <p>Trakt<br>
 RunScript(script.module.accountmgr, action=traktAuth)</p><br>
 
+<p>TMDb<br>
+RunScript(script.module.accountmgr, action=tmdbAuth)</p><br>
+
 
 ### Sync Built-in Commands:<br>
 
@@ -102,6 +105,9 @@ RunScript(script.module.accountmgr, action=traktReSync)</p>
 
 <p>Sync Multiple Debrid Accounts<br>
 RunScript(script.module.accountmgr, action=ReSyncAll)</p><br>
+
+<p>Sync Metadata Accounts<br>
+RunScript(script.module.accountmgr, action=metaSync)</p><br>
 
 
 ### View Authorized Add-ons Built-in Commands:<br>
@@ -123,15 +129,25 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=trakt,return)</p>
 <p>View Multiple Debrid Accounts<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p><br>
 
+<p>View Metadata Accounts<br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><br>
+
 
 ### Supported Services:
-1. Real-Debrid<br>
-2. Premiumize<br>
-3. All-Debrid<br>
-4. Trakt<br>
+
+1.  Real-Debrid<br>
+2.  Premiumize<br>
+3.  All-Debrid<br>
+4.  Trakt<br>
+5.  Fanart.TV<br>
+6.  OMDb<br>
+7.  MDbList<br>
+8.  IMDb<br>
+9.  TMDb<br>
+10. TVDb<br>
 
 
-### Supported Debrid Addons:
+### Debrid Supported Addons:
 
 1.  Seren<br>                   
 2.  Ezra<br>                    
@@ -159,7 +175,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p><
 24. ResolveURL
 
 
-### Supported Trakt Addons:
+### Trakt Supported Addons:
                   
 1.  Ezra<br>
 2.  Fen<br>
@@ -187,3 +203,29 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p><
 24. TMDb Helper<br>
 25. Trakt Add-on<br>
 26. My Accounts
+
+
+### Metadata Supported Addons:
+
+1.  Seren<br>                  
+2.  Ezra<br>
+3.  Fen<br>
+4.  POV<br>                   
+5.  Umbrella<br>
+6.  Adina<br>
+7.  Artemis<br>
+8.  Dynasty<br>
+9.  Loonatics Empire<br>
+10. The Crew<br> 
+11. Homelander<br> 
+12. Quicksilver<br>
+13. Chains Genocide<br>           
+14. Shazam<br>
+15. The Promise<br>
+16. Nightwing<br>
+17. Alvin<br>
+18. Moria<br>
+19. Nine Lives<br>
+20. TMDb Helper<br>
+21. Your Accounts<br>
+22. My Accounts
