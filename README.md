@@ -91,7 +91,7 @@ RunScript(script.module.accountmgr, action=premiumizeAuth)</p>
 RunScript(script.module.accountmgr, action=alldebridAuth)</p>
 
 <p>Trakt<br>
-RunScript(script.module.accountmgr, action=traktAuth)</p><br>
+RunScript(script.module.accountmgr, action=traktAuth)</p>
 
 <p>TMDb<br>
 RunScript(script.module.accountmgr, action=tmdbAuth)</p><br>
@@ -112,10 +112,10 @@ RunScript(script.module.accountmgr, action=alldebridReSync)</p>
 RunScript(script.module.accountmgr, action=traktReSync)</p>
 
 <p>Sync Multiple Debrid Accounts<br>
-RunScript(script.module.accountmgr, action=ReSyncAll)</p><br>
+RunScript(script.module.accountmgr, action=ReSyncAll)</p>
 
 <p>Sync Furk/Easynews/FilePursuit Accounts<br>
-RunScript(script.module.accountmgr, action=SyncAll)</p><br>
+RunScript(script.module.accountmgr, action=SyncAll)</p>
 
 <p>Sync Metadata Accounts<br>
 RunScript(script.module.accountmgr, action=metaSync)</p><br>
@@ -138,10 +138,10 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=alldebrid,return)</p>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=trakt,return)</p>
 
 <p>View Multiple Debrid Accounts<br>
-ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p><br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p>
 
 <p>View Furk/Easynews/FilePursuit Accounts<br>
-ActivateWindow(10001,plugin://script.module.acctview/?mode=nondebrid,return)</p><br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=nondebrid,return)</p>
 
 <p>View Metadata Accounts<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><br>
