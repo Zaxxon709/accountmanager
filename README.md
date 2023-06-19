@@ -71,6 +71,14 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 </ul>
 
 
+### How to Sync Furk/Easynews/FilePursuit and Metadata:
+<ul>
+    <li>Open Account Manager</li>
+    <li>Navigate to the ‘Accounts’ category and add your data into the appropriate field(s)</li>
+    <li>Choose 'Sync Add-ons' to sync your data with installed Add-ons</li><br>
+</ul>
+
+
 ### Authorize Built-in Commands:
 
 <p>Real-Debrid<br>
@@ -106,6 +114,9 @@ RunScript(script.module.accountmgr, action=traktReSync)</p>
 <p>Sync Multiple Debrid Accounts<br>
 RunScript(script.module.accountmgr, action=ReSyncAll)</p><br>
 
+<p>Sync Furk/Easynews/FilePursuit Accounts<br>
+RunScript(script.module.accountmgr, action=SyncAll)</p><br>
+
 <p>Sync Metadata Accounts<br>
 RunScript(script.module.accountmgr, action=metaSync)</p><br>
 
@@ -129,6 +140,9 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=trakt,return)</p>
 <p>View Multiple Debrid Accounts<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p><br>
 
+<p>View Furk/Easynews/FilePursuit Accounts<br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=nondebrid,return)</p><br>
+
 <p>View Metadata Accounts<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><br>
 
@@ -139,12 +153,15 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 2.  Premiumize<br>
 3.  All-Debrid<br>
 4.  Trakt<br>
-5.  Fanart.TV<br>
-6.  OMDb<br>
-7.  MDbList<br>
-8.  IMDb<br>
-9.  TMDb<br>
-10. TVDb<br>
+5.  Furk<br>
+6.  Easynews<br>
+7.  FilePursuit<br>
+8.  Fanart.TV<br>
+9.  OMDb<br>
+10. MDbList<br>
+11. IMDb<br>
+12. TMDb<br>
+13. TVDb<br>
 
 
 ### Debrid Supported Addons:
@@ -170,8 +187,8 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 19. Loonatics Empire<br>
 20. Premiumizer<br>
 21. Realizer<br>
-22. My Accounts<br>
-23. Your Accounts<br>
+22. Your Accounts<br>
+23. My Accounts<br>
 24. ResolveURL
 
 
@@ -227,5 +244,55 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 18. Moria<br>
 19. Nine Lives<br>
 20. TMDb Helper<br>
-21. Your Accounts<br>
-22. My Accounts
+21. Embuary Info<br>
+22. Metahandler<br>
+23. PVR Artwork Module<br>
+24. Your Accounts<br>
+25. My Accounts
+
+
+### Furk Supported Addons:
+
+1.  Ezra<br>
+2.  Fen<br>
+3.  POV<br>
+4.  Umbrella<br>
+5.  Adina<br>
+6.  Artemis<br>
+7.  Dynasty<br>
+8.  Lonnatics Empire<br>
+9.  The Crew<br>
+10. Homelander<br>
+11. Quicksilver<br>
+12. Chains Genocide<br>
+13. Shazam<br>
+14. The Promise<br>	
+15. Nightwing<br>
+16. Alvin<br>
+17. Moria<br>
+18. Nine Lives<br>
+19. Your Accounts<br>
+20. My Accounts
+
+
+### Easynews Supported Addons:
+
+1.  Ezra<br>
+2.  Fen<br>
+3.  POV<br>
+4.  Umbrella<br>
+5.  Adina<br>
+6.  Artemis<br>
+7.  Dynasty<br>
+8.  The Crew<br>
+9.  Your Accounts<br>
+10. My Accounts
+
+
+### FilePursuit Supported Addons:
+
+1.  Umbrella<br>
+2.  Artemis<br>
+3.  Dynasty<br>
+4.  Your Accounts<br>
+5.  My Accounts
