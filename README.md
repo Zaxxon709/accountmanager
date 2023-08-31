@@ -176,33 +176,26 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 8.  Unleashed<br>             
 9.  Chain Reaction<br> 
 10. Twisted<br>
-11. Base19<br>
-12. Magic Dragon<br>
-13. Asgard<br>
-14. M.E.T.V<br>
-15. Aliunde<br>
-16. Adina<br>
-17. Artemis<br>
-18. Dynasty<br>
-19. Loonatics Empire<br>
-20. Premiumizer<br>
-21. Realizer<br>
-22. Your Accounts<br>
-23. My Accounts<br>
-24. ResolveURL
+11. Magic Dragon<br>
+12. Asgard<br>
+13. M.E.T.V<br>
+14. Aliunde<br>
+15. Patriot<br>
+16. My Accounts<br>
+17. ResolveURL
 
 
 ### Trakt Supported Addons:
                   
-1.  Ezra<br>
-2.  Fen<br>
-3.  POV<br>                   
-4.  Umbrella<br>
-5.  Shadow<br>
-6.  Ghost<br>
-7.  Unleashed<br>            
-8.  Chain Reaction<br>
-9.  Base 19<br> 
+1.  Seren (Custom Trakt API Keys Only)<br>
+2.  Ezra<br>
+3.  Fen<br>
+4.  POV<br>                   
+5.  Umbrella<br>
+6.  Shadow<br>
+7.  Ghost<br>
+8.  Unleashed<br>            
+9.  Chain Reaction<br>
 10. Magic Dragon<br>
 11. Asgard<br>
 12. Patriot<br>
@@ -210,16 +203,15 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 14. Quicksilver<br>
 15. Chains Genocide<br>           
 16. Shazam<br>
-17. The Promise<br>
-18. The Crew<br>              
-19. Nightwing<br> 
-20. Alvin<br>
-21. Moria<br>
-22. Nine Lives<br>
-23. Scrubs V2<br>
-24. TMDb Helper<br>
-25. Trakt Add-on<br>
-26. My Accounts
+17. The Crew<br>              
+18. Nightwing<br> 
+19. Alvin<br>
+20. Moria<br>
+21. Absolution<br>
+22. Scrubs V2<br>
+23. TMDb Helper<br>
+24. Trakt Add-on<br>
+25. My Accounts
 
 
 ### Metadata Supported Addons:
@@ -229,26 +221,20 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 3.  Fen<br>
 4.  POV<br>                   
 5.  Umbrella<br>
-6.  Adina<br>
-7.  Artemis<br>
-8.  Dynasty<br>
-9.  Loonatics Empire<br>
-10. The Crew<br> 
-11. Homelander<br> 
-12. Quicksilver<br>
-13. Chains Genocide<br>           
-14. Shazam<br>
-15. The Promise<br>
-16. Nightwing<br>
-17. Alvin<br>
-18. Moria<br>
-19. Nine Lives<br>
-20. TMDb Helper<br>
-21. Embuary Info<br>
-22. Metahandler<br>
-23. PVR Artwork Module<br>
-24. Your Accounts<br>
-25. My Accounts
+6.  The Crew<br> 
+7.  Homelander<br> 
+8.  Quicksilver<br>
+9.  Chains Genocide<br>           
+10. Shazam<br>
+11. Nightwing<br>
+12. Alvin<br>
+13. Moria<br>
+14. Absolution<br>
+15. TMDb Helper<br>
+16. Embuary Info<br>
+17. Metahandler<br>
+18. PVR Artwork Module<br>
+19. My Accounts
 
 
 ### Furk Supported Addons:
@@ -257,22 +243,16 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 2.  Fen<br>
 3.  POV<br>
 4.  Umbrella<br>
-5.  Adina<br>
-6.  Artemis<br>
-7.  Dynasty<br>
-8.  Lonnatics Empire<br>
-9.  The Crew<br>
-10. Homelander<br>
-11. Quicksilver<br>
-12. Chains Genocide<br>
-13. Shazam<br>
-14. The Promise<br>	
-15. Nightwing<br>
-16. Alvin<br>
-17. Moria<br>
-18. Nine Lives<br>
-19. Your Accounts<br>
-20. My Accounts
+5.  The Crew<br>
+6.  Homelander<br>
+7.  Quicksilver<br>
+8.  Chains Genocide<br>
+9.  Shazam<br>
+10. Nightwing<br>
+11. Alvin<br>
+12. Moria<br>
+13. Absolution
+14. My Accounts
 
 
 ### Easynews Supported Addons:
@@ -281,18 +261,11 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 2.  Fen<br>
 3.  POV<br>
 4.  Umbrella<br>
-5.  Adina<br>
-6.  Artemis<br>
-7.  Dynasty<br>
-8.  The Crew<br>
-9.  Your Accounts<br>
-10. My Accounts
+5.  The Crew<br>
+6.  My Accounts
 
 
 ### FilePursuit Supported Addons:
 
 1.  Umbrella<br>
-2.  Artemis<br>
-3.  Dynasty<br>
-4.  Your Accounts<br>
-5.  My Accounts
+2.  My Accounts
