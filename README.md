@@ -268,4 +268,3 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 ### FilePursuit Supported Addons:
 
 1.  Umbrella<br>
-2.  My Accounts
