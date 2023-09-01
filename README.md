@@ -181,8 +181,9 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 13. M.E.T.V<br>
 14. Aliunde<br>
 15. Patriot<br>
-16. My Accounts<br>
-17. ResolveURL
+16. Black Lightning<br>
+17. My Accounts<br>
+18. ResolveURL
 
 
 ### Trakt Supported Addons:
@@ -199,19 +200,21 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 10. Magic Dragon<br>
 11. Asgard<br>
 12. Patriot<br>
-13. Homelander<br> 
-14. Quicksilver<br>
-15. Chains Genocide<br>           
-16. Shazam<br>
-17. The Crew<br>              
-18. Nightwing<br> 
-19. Alvin<br>
-20. Moria<br>
-21. Absolution<br>
-22. Scrubs V2<br>
-23. TMDb Helper<br>
-24. Trakt Add-on<br>
-25. My Accounts
+13. Black Lightning<br>
+14. Homelander<br> 
+15. Quicksilver<br>
+16. Chains Genocide<br>           
+17. Shazam<br>
+18. The Crew<br>              
+19. Nightwing<br> 
+20. Alvin<br>
+21. Moria<br>
+22. Absolution<br>
+23. 9 Lives<br>
+24. Scrubs V2<br>
+25. TMDb Helper<br>
+26. Trakt Add-on<br>
+27. My Accounts
 
 
 ### Metadata Supported Addons:
