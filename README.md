@@ -233,11 +233,12 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 12. Alvin<br>
 13. Moria<br>
 14. Absolution<br>
-15. TMDb Helper<br>
-16. Embuary Info<br>
-17. Metahandler<br>
-18. PVR Artwork Module<br>
-19. My Accounts
+15. 9 Lives<br>
+16. TMDb Helper<br>
+17. Embuary Info<br>
+18. Metahandler<br>
+19. PVR Artwork Module<br>
+20. My Accounts
 
 
 ### Furk Supported Addons:
@@ -254,8 +255,9 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 10. Nightwing<br>
 11. Alvin<br>
 12. Moria<br>
-13. Absolution
-14. My Accounts
+13. Absolution<br>
+14. 9 Lives<br>
+15. My Accounts
 
 
 ### Easynews Supported Addons:
@@ -270,4 +272,4 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 
 ### FilePursuit Supported Addons:
 
-1.  Umbrella<br>
+1.  Umbrella
