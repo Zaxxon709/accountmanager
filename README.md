@@ -167,103 +167,111 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 ### Debrid Supported Addons:
 
 1.  Seren<br>                   
-2.  Ezra<br>                    
-3.  Fen<br>
-4.  POV<br>                     
-5.  Umbrella<br>             
-6.  Shadow<br>               
-7.  Ghost<br>                  
-8.  Unleashed<br>             
-9.  Chain Reaction<br> 
-10. Twisted<br>
-11. Magic Dragon<br>
-12. Asgard<br>
-13. M.E.T.V<br>
-14. Aliunde<br>
+2.  Fen<br>                   
+3.  Ezra<br>
+4.  Coalition<br>
+5.  POV<br>                     
+6.  Umbrella<br>             
+7.  Shadow<br>               
+8.  Ghost<br>
+9.  Base19<br>                  
+10. Unleashed<br>             
+11. Chain Reaction<br> 
+12. Twisted<br>
+13. Magic Dragon<br>
+14. Asgard<br>
 15. Patriot<br>
 16. Black Lightning<br>
-17. My Accounts<br>
-18. ResolveURL
+17. M.E.T.V<br>
+18. Aliunde K19<br>
+19. My Accounts<br>
+20. ResolveURL
 
 
 ### Trakt Supported Addons:
                   
 1.  Seren (Custom Trakt API Keys Only)<br>
-2.  Ezra<br>
-3.  Fen<br>
-4.  POV<br>                   
-5.  Umbrella<br>
-6.  Shadow<br>
-7.  Ghost<br>
-8.  Unleashed<br>            
-9.  Chain Reaction<br>
-10. Magic Dragon<br>
-11. Asgard<br>
-12. Patriot<br>
-13. Black Lightning<br>
-14. Homelander<br> 
-15. Quicksilver<br>
-16. Chains Genocide<br>           
-17. Shazam<br>
-18. The Crew<br>              
-19. Nightwing<br> 
-20. Alvin<br>
-21. Moria<br>
-22. Absolution<br>
-23. 9 Lives<br>
-24. Scrubs V2<br>
-25. TMDb Helper<br>
-26. Trakt Add-on<br>
-27. My Accounts
+2.  Fen<br>
+3.  Ezra<br>
+4.  Coalition<br>
+5.  POV<br>                   
+6.  Umbrella<br>
+7.  Shadow<br>
+8.  Ghost<br>
+9.  Base19<br>
+10. Unleashed<br>            
+11. Chain Reaction<br>
+12. Magic Dragon<br>
+13. Asgard<br>
+14. Patriot<br>
+15. Black Lightning<br>
+16. Aliunde K19<br>
+17. Homelander<br> 
+18. Quicksilver<br>
+19. Chains Genocide<br> 
+20. Absolution<br>        
+21. Shazam<br>
+22. The Crew<br>              
+23. Nightwing<br> 
+24. Alvin<br>
+25. Moria<br>
+26. 9 Lives<br>
+27. Scrubs V2<br>
+28. TMDb Helper<br>
+29. Trakt Add-on<br>
+30. My Accounts
 
 
 ### Metadata Supported Addons:
 
 1.  Seren<br>                  
+2.  Fen<br>
+3.  Ezra<br>
+4.  Coalition<br>
+5.  POV<br>                   
+6.  Umbrella<br>
+7.  The Crew<br> 
+8.  Homelander<br> 
+9.  Quicksilver<br>
+10. Chains Genocide<br>           
+11. Shazam<br>
+12. Nightwing<br>
+13. Alvin<br>
+14. Moria<br>
+15. Absolution<br>
+16. 9 Lives<br>
+17. TMDb Helper<br>
+18. Embuary Info<br>
+19. Metahandler<br>
+20. PVR Artwork Module<br>
+21. My Accounts
+
+
+### Furk Supported Addons:
+
+1.  Fen<br>
 2.  Ezra<br>
-3.  Fen<br>
-4.  POV<br>                   
+3.  Coalition<br>
+4.  POV<br>
 5.  Umbrella<br>
-6.  The Crew<br> 
-7.  Homelander<br> 
+6.  The Crew<br>
+7.  Homelander<br>
 8.  Quicksilver<br>
-9.  Chains Genocide<br>           
+9.  Chains Genocide<br>
 10. Shazam<br>
 11. Nightwing<br>
 12. Alvin<br>
 13. Moria<br>
 14. Absolution<br>
 15. 9 Lives<br>
-16. TMDb Helper<br>
-17. Embuary Info<br>
-18. Metahandler<br>
-19. PVR Artwork Module<br>
-20. My Accounts
-
-
-### Furk Supported Addons:
-
-1.  Ezra<br>
-2.  Fen<br>
-3.  POV<br>
-4.  Umbrella<br>
-5.  The Crew<br>
-6.  Homelander<br>
-7.  Quicksilver<br>
-8.  Chains Genocide<br>
-9.  Shazam<br>
-10. Nightwing<br>
-11. Alvin<br>
-12. Moria<br>
-13. Absolution<br>
-14. 9 Lives<br>
-15. My Accounts
+16. My Accounts
 
 
 ### Easynews Supported Addons:
 
-1.  Ezra<br>
-2.  Fen<br>
+1.  Fen<br>
+2.  Ezra<br>
+3.  Coalition<br>
 3.  POV<br>
 4.  Umbrella<br>
 5.  The Crew<br>
