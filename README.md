@@ -78,6 +78,9 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
     <li>Choose 'Sync Add-ons' to sync your data with installed Add-ons</li><br>
 </ul>
 
+### Command to Open Accounts Manager:<br>
+
+RunAddon(script.module.accountmgr)<br>
 
 ### Authorize Built-in Commands:
 
@@ -167,25 +170,28 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 ### Debrid Supported Addons:
 
 1.  Seren<br>                   
-2.  Fen<br>                   
+2.  Fen<br>                  
 3.  Ezra<br>
 4.  Coalition<br>
 5.  POV<br>                     
-6.  Umbrella<br>             
-7.  Shadow<br>               
-8.  Ghost<br>
-9.  Base19<br>                  
-10. Unleashed<br>             
-11. Chain Reaction<br> 
-12. Twisted<br>
-13. Magic Dragon<br>
-14. Asgard<br>
-15. Patriot<br>
-16. Black Lightning<br>
-17. M.E.T.V<br>
-18. Aliunde K19<br>
-19. My Accounts<br>
-20. ResolveURL
+6.  Umbrella<br>
+7.  Dradis<br>
+8.  Taz19<br>            
+9.  Shadow<br>              
+10. Ghost<br>
+11. Base19<br>                 
+12. Unleashed<br>             
+13. Chain Reaction<br>
+14. Twisted<br>
+15. Magic Dragon<br>
+16. Asgard<br>
+17. Patriot<br>
+18. Black Lightning<br>
+19. M.E.T.V<br>
+20. Aliunde K19<br>
+21. All Accounts<br>
+22. My Accounts<br>
+23. ResolveURL	
 
 
 ### Trakt Supported Addons:
@@ -194,32 +200,35 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 2.  Fen<br>
 3.  Ezra<br>
 4.  Coalition<br>
-5.  POV<br>                   
+5.  POV<br>                  
 6.  Umbrella<br>
-7.  Shadow<br>
-8.  Ghost<br>
-9.  Base19<br>
-10. Unleashed<br>            
-11. Chain Reaction<br>
-12. Magic Dragon<br>
-13. Asgard<br>
-14. Patriot<br>
-15. Black Lightning<br>
-16. Aliunde K19<br>
-17. Homelander<br> 
-18. Quicksilver<br>
-19. Chains Genocide<br> 
-20. Absolution<br>        
-21. Shazam<br>
-22. The Crew<br>              
-23. Nightwing<br> 
-24. Alvin<br>
-25. Moria<br>
-26. 9 Lives<br>
-27. Scrubs V2<br>
-28. TMDb Helper<br>
-29. Trakt Add-on<br>
-30. My Accounts
+7.  Dradis<br>
+8.  Taz19<br>
+9.  Shadow<br>
+10. Ghost<br>
+11. Base19<br>
+12. Unleashed <br>           
+13. Chain Reaction<br>
+14. Magic Dragon<br>
+15. Asgard<br>
+16. Patriot<br>
+17. Black Lightning<br>
+18. Aliunde K19<br>
+19. Homelander<br>
+20. Quicksilver<br>
+21. Chains Genocide<br>
+22. Absolution <br>      
+23. Shazam<br>
+24. The Crew<br>              
+25. Nightwing<br> 
+26. Alvin<br>
+27. Moria<br>
+28. 9 Lives<br>
+29. Scrubs V2<br>
+30. TMDb Helper<br>
+31. Trakt Add-on<br>
+32. All Accounts<br>
+33. My Accounts
 
 
 ### Metadata Supported Addons:
@@ -230,21 +239,24 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 4.  Coalition<br>
 5.  POV<br>                   
 6.  Umbrella<br>
-7.  The Crew<br> 
-8.  Homelander<br> 
-9.  Quicksilver<br>
-10. Chains Genocide<br>           
-11. Shazam<br>
-12. Nightwing<br>
-13. Alvin<br>
-14. Moria<br>
-15. Absolution<br>
-16. 9 Lives<br>
-17. TMDb Helper<br>
-18. Embuary Info<br>
-19. Metahandler<br>
-20. PVR Artwork Module<br>
-21. My Accounts
+7.  Dradis<br>
+8.  Taz19<br>
+9.  The Crew<br> 
+10. Homelander<br> 
+11. Quicksilver<br>
+12. Chains Genocide<br>           
+13. Shazam<br>
+14. Nightwing<br>
+15. Alvin<br>
+16. Moria<br>
+17. Absolution<br>
+18. 9 Lives<br>
+19. TMDb Helper<br>
+20. Embuary Info<br>
+21. Metahandler<br>
+22. PVR Artwork Module<br>
+23. All Accounts<br>
+24. My Accounts
 
 
 ### Furk Supported Addons:
@@ -254,30 +266,39 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 3.  Coalition<br>
 4.  POV<br>
 5.  Umbrella<br>
-6.  The Crew<br>
-7.  Homelander<br>
-8.  Quicksilver<br>
-9.  Chains Genocide<br>
-10. Shazam<br>
-11. Nightwing<br>
-12. Alvin<br>
-13. Moria<br>
-14. Absolution<br>
-15. 9 Lives<br>
-16. My Accounts
+6.  Dradis<br>
+7.  Taz19<br>
+8.  The Crew<br>
+9.  Homelander<br>
+10. Quicksilver<br>
+11. Chains Genocide<br>
+12. Shazam<br>
+13. Nightwing<br>
+14. Alvin<br>
+15. Moria<br>
+16. Absolution<br>
+17. 9 Lives<br>
+18. All Accounts<br>
+19. My Accounts
 
 
 ### Easynews Supported Addons:
 
-1.  Fen<br>
-2.  Ezra<br>
-3.  Coalition<br>
-3.  POV<br>
-4.  Umbrella<br>
-5.  The Crew<br>
-6.  My Accounts
+1. Fen<br>
+2. Ezra<br>
+3. Coalition<br>
+3. POV<br>
+4. Umbrella<br>
+5. Dradis<br>
+6. Taz19<br>
+7. The Crew<br>
+8. All Accounts<br>
+9. My Accounts
 
 
 ### FilePursuit Supported Addons:
 
-1.  Umbrella
+1. Umbrella<br>
+2. Dradis<br>
+3. All Accounts<br>
+4. My Accounts
