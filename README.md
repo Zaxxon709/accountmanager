@@ -80,7 +80,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 
 ### Open Accounts Manager:
 
-<p>RunAddon(script.module.accountmgr)</p>
+<p>RunAddon(script.module.accountmgr)</p><br>
 
 ### Authorize Built-in Commands:
 
