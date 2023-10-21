@@ -78,9 +78,9 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
     <li>Choose 'Sync Add-ons' to sync your data with installed Add-ons</li><br>
 </ul>
 
-### Command to Open Accounts Manager:<br>
+### Open Accounts Manager:
 
-RunAddon(script.module.accountmgr)<br>
+<p>RunAddon(script.module.accountmgr)</p><br>
 
 ### Authorize Built-in Commands:
 
