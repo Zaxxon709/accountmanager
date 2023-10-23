@@ -215,20 +215,22 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 17. Black Lightning<br>
 18. Aliunde K19<br>
 19. Homelander<br>
-20. Quicksilver<br>
-21. Chains Genocide<br>
-22. Absolution <br>      
-23. Shazam<br>
-24. The Crew<br>              
-25. Nightwing<br> 
-26. Alvin<br>
-27. Moria<br>
-28. 9 Lives<br>
-29. Scrubs V2<br>
-30. TMDb Helper<br>
-31. Trakt Add-on<br>
-32. All Accounts<br>
-33. My Accounts
+20. TheLab<br>
+21. Quicksilver<br>
+22. Chains Genocide<br>
+23. Absolution <br>      
+24. Shazam<br>
+25. The Crew<br>              
+26. Nightwing<br> 
+27. Alvin<br>
+28. Moria<br>
+29. 9 Lives<br>
+30. Scrubs V2<br>
+31. TheLabjr<br>
+32. TMDb Helper<br>
+33. Trakt Add-on<br>
+34. All Accounts<br>
+35. My Accounts
 
 
 ### Metadata Supported Addons:
@@ -242,21 +244,22 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 7.  Dradis<br>
 8.  Taz19<br>
 9.  The Crew<br> 
-10. Homelander<br> 
-11. Quicksilver<br>
-12. Chains Genocide<br>           
-13. Shazam<br>
-14. Nightwing<br>
-15. Alvin<br>
-16. Moria<br>
-17. Absolution<br>
-18. 9 Lives<br>
-19. TMDb Helper<br>
-20. Embuary Info<br>
-21. Metahandler<br>
-22. PVR Artwork Module<br>
-23. All Accounts<br>
-24. My Accounts
+10. Homelander<br>
+11. TheLab<br> 
+12. Quicksilver<br>
+13. Chains Genocide<br>           
+14. Shazam<br>
+15. Nightwing<br>
+16. Alvin<br>
+17. Moria<br>
+18. Absolution<br>
+19. 9 Lives<br>
+20. TMDb Helper<br>
+21. Embuary Info<br>
+22. Metahandler<br>
+23. PVR Artwork Module<br>
+24. All Accounts<br>
+25. My Accounts
 
 
 ### Furk Supported Addons:
@@ -270,16 +273,17 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 7.  Taz19<br>
 8.  The Crew<br>
 9.  Homelander<br>
-10. Quicksilver<br>
-11. Chains Genocide<br>
-12. Shazam<br>
-13. Nightwing<br>
-14. Alvin<br>
-15. Moria<br>
-16. Absolution<br>
-17. 9 Lives<br>
-18. All Accounts<br>
-19. My Accounts
+10. TheLab<br>
+11. Quicksilver<br>
+12. Chains Genocide<br>
+13. Shazam<br>
+14. Nightwing<br>
+15. Alvin<br>
+16. Moria<br>
+17. Absolution<br>
+18. 9 Lives<br>
+19. All Accounts<br>
+20. My Accounts
 
 
 ### Easynews Supported Addons:
