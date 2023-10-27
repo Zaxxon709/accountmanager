@@ -189,9 +189,10 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 18. Black Lightning<br>
 19. M.E.T.V<br>
 20. Aliunde K19<br>
-21. All Accounts<br>
-22. My Accounts<br>
-23. ResolveURL	
+21. Otaku<br>
+22. All Accounts<br>
+23. My Accounts<br>
+24. ResolveURL	
 
 
 ### Trakt Supported Addons:
