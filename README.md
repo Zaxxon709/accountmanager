@@ -18,7 +18,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 ### How the addon works:
 - Once authorization is complete a check is done for each supported addon to confirm if the addon is installed and if settings.xml exists for that addon.
 - If both of these checks are true your Trakt & Debrid data is retrieved from Account Manager and applied to the supported addons.
-- During the authorization process a one time backup is also performed to save all Trakt & Debrid data to the default backup directory.<br>
+- A one time backup can also be performed to save all Trakt & Debrid data to the default backup directory. This feature is not enabled by default but can be enabled by the user in settings/configure backup prior to completing authorization.<br>
 
 
 ### Support for Custom API Keys:
@@ -172,7 +172,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 1.  Seren<br>                   
 2.  Fen<br>                  
 3.  Ezra<br>
-4.  Coalition<br>
+4.  The Coalition<br>
 5.  POV<br>                     
 6.  Umbrella<br>
 7.  Dradis<br>
@@ -200,7 +200,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 1.  Seren (Custom Trakt API Keys Only)<br>
 2.  Fen<br>
 3.  Ezra<br>
-4.  Coalition<br>
+4.  The Coalition<br>
 5.  POV<br>                  
 6.  Umbrella<br>
 7.  Dradis<br>
@@ -239,7 +239,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 1.  Seren<br>                  
 2.  Fen<br>
 3.  Ezra<br>
-4.  Coalition<br>
+4.  The Coalition<br>
 5.  POV<br>                   
 6.  Umbrella<br>
 7.  Dradis<br>
@@ -267,7 +267,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 
 1.  Fen<br>
 2.  Ezra<br>
-3.  Coalition<br>
+3.  The Coalition<br>
 4.  POV<br>
 5.  Umbrella<br>
 6.  Dradis<br>
@@ -291,7 +291,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 
 1. Fen<br>
 2. Ezra<br>
-3. Coalition<br>
+3. The Coalition<br>
 3. POV<br>
 4. Umbrella<br>
 5. Dradis<br>
