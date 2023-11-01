@@ -1,0 +1,41 @@
+2.3.9 - Streamlined the initial authorization process to reduce the time taken to complete. Edited the view authorizations window to give it a cleaner look. Disabled auto-backup of Trakt & Debrid data during authorization by default. If needed, this feature can be re-enabled in settings/configure backup. Enabled update notifications by default so users who didn't install via repo will know there is an update available.
+
+2.3.8 - Fixed acctview write error during backup/revoke operations. Added Otaku.
+
+2.3.7 - Fixed a bug preventing All-Debrid Acctview from opening. Minor bug fixes and clean up.
+
+2.3.6 - Added Dradis, Taz19, TheLab, TheLabjr and All Accounts.
+
+2.3.5 - Fixed Asgard failing to auth Trakt. Added an option in settings to manually input backup directory.
+
+2.3.4 - Added Coalition and Base19. Added new artwork. Fixed a bug preventing revoke of All-Debrid data.
+
+2.3.3 - Added 9 Lives and Black Lightning. Bug fixes
+
+2.3.2 - Removed addons with broken repos. Removed addons with restrictions. Added Seren Trakt support but with custom Trakt API keys only. Added Absolution. Multiple bug fixes and cleanup
+
+2.3.1 - Added support for Furk/Easynews/FilePursuit. Added support for some metadata dependencies (Embuary Info, Metahandler, PVR Artwork Module). Bug fixes and cleanup.
+
+2.3.0 - Added Support for Metadata accounts. Fixed an issue with the Restore to Default function.
+
+2.2.9 - Added a service to check for Account Manager updates. Moved changelog to Advanced category
+
+2.2.8 - Fixed a small bug affected All-Debrid Authorizations.
+
+2.2.7 - Added support for a few more addons. Fixed an issue with All-Debrid backup/restore.
+
+2.2.6 - Fix a bug that caused authorizations to fail for All-Debrid. This should be the final update unless any issues pop up.
+
+2.2.5 - Added support for Custom API Keys. If you have your own personal Trakt API keys, please use them.
+
+2.2.4 - Multiple small bugs fixed.
+
+2.2.3 - Fixed a bug preventing sync of certian add-ons
+
+2.2.2 - Cleaned up backup/restore code adding some notifications so the user knows what is happening. Added a new menu item 'Information'. Bug fixes and clean up.
+
+2.2.1 - Added the option to view and manage data for multiple debrid accounts via one location. This should make it a little easier managing data for users with multiple debrid accounts. Removed Seren add-on due to increased Trakt API requests. Any add-on that supports custom keys has been updated to work accordingly. Added a changelog and Restore All Add-ons to Default option under 'Advanced' so users, if the wish to do so, can restore system to default settings prior to removing the add-on. This was already included in the revoke process but this makes it a little more clear. Bug fixes and clean up.
+
+2.2.0 - Added Trakt support and changed name from Debrid Manager to Account Manager. Added new API keys. Added auto-sync services for both Trakt and Debrid. A section to change your backup directory has been added to the settings menu. Numerous changes and bug fixes from predecessor Debrid Manager.
+
+2.1.9 - Initial Release. Forked from My Accounts.
