@@ -38,7 +38,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
     <li>WARNING! Use only to restore system to default settings.</li>
     <li>Open Account Manager and Navigate to the ‘Advanced’ category.
     <li>Select ‘Restore Default Settings'</li>
-    <li>This action will delete all your saved data, revoke all add-ons and reset all supported add-ons back to default.</li><br>
+    <li>This action will revoke all services, reset all add-on settings back to default, and delete all your saved data</li><br>
 </ul>
 
 
