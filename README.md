@@ -17,7 +17,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 
 ### Custom Trakt API Keys:
 - If you have your own Trakt API keys, please use them.<br> 
-- You can enter your keys within the Account Manager settings menu.
+- You can enter your keys within Account Manager's settings menu.
 - If you do not already have keys then just follow the link below to create them.<br>
 
 <code>https://trakt.tv/oauth/applications/new</code>
@@ -28,7 +28,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 - The options to backup, restore and clear data can be found in Account Manager's settings menu.
 - The backup created during authorization only backs up current installed add-ons. If you decide to add additional supported addons you should create another backup to save data for those add-ons.<br>
 - The default path is not persistent after build updates or fresh starts. For builders, I'd recommend your wizard data path for backups.<br>
-- The default backup path can also be changed by the user at any time via the Account Manager settings menu. If the default path is changed make sure to complete another backup.<br>
+- The default backup path can be changed any time in Account Manager's settings menu. If the default path is changed make sure to complete another backup.<br>
 
 <p>Default Backup Path = special://userdata/addon_data/plugin.program.accountmgr/</p>
 
@@ -65,7 +65,9 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 <ul>
     <li>Open Account Manager</li>
     <li>Navigate to the ‘Accounts’ category and add your data into the appropriate field(s)</li>
-    <li>Choose 'Sync Add-ons' to sync your data with installed Add-ons</li><br>
+    <li>Choose 'Sync Add-ons' to sync your data with installed Add-ons</li>
+    <li>Wait for the 'Sync is complete' notification and when prompted choose 'OK' to force close Kodi</li>
+    <li>All supported add-ons are now synced!</li><br>
 </ul>
 
 ### Open Accounts Manager:
