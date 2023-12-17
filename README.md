@@ -15,22 +15,12 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 </ul>  
 
 
-### How the addon works:
-- Once authorization is complete a check is done for each supported addon to confirm if the addon is installed and if settings.xml exists for that addon.
-- If both of these checks are true your Trakt & Debrid data is retrieved from Account Manager and applied to the supported addons.
-- A one time backup can also be performed to save all Trakt & Debrid data to the default backup directory. This feature is not enabled by default but can be enabled by the user in settings/configure backup prior to completing authorization.<br>
-
-
-### Support for Custom API Keys:
-- Support has been added for your own Custom Trakt API keys. If you have your own keys, please use them. If you do not have keys then head on over to the Trakt website using the link below and create them.<br>
+### Custom Trakt API Keys:
+- If you have your own Trakt API keys, please use them.<br> 
+- You can enter your keys within the Account Manager settings menu.
+- If you do not already have keys then just follow the link below to create them.<br>
 
 <code>https://trakt.tv/oauth/applications/new</code>
-
-
-### Note for users/builders:
-- For Account Manager to function correctly you need to ensure the directories containing the settings.xml for each supported addon are present in the addon_data directory.
-- Some addons do not create the settings.xml after installation. To create it the user first has to open the addon settings menu and then choose 'ok' for the file to be created. If it's not present Account Manager simply does nothing and moves on to the next addon. So, make sure to add these to your build.
-- You'll find the option to use Custom Trakt API keys in the add-ons settings menu. I would appreciate it if builders would add their own keys to Account Manager prior to uploading their builds.<br>
 
 
 ### Backup/Restore Data:
@@ -170,97 +160,100 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 ### Debrid Supported Addons:
 
 1.  Seren<br>                   
-2.  Fen<br>                  
-3.  Ezra<br>
-4.  The Coalition<br>
-5.  POV<br>                     
-6.  Umbrella<br>
-7.  Dradis<br>
-8.  Taz19<br>            
-9.  Shadow<br>              
-10. Ghost<br>
-11. Base19<br>                 
-12. Unleashed<br>             
-13. Chain Reaction<br>
-14. Twisted<br>
-15. Magic Dragon<br>
-16. Asgard<br>
-17. Patriot<br>
-18. Black Lightning<br>
-19. M.E.T.V<br>
-20. Aliunde K19<br>
-21. Otaku<br>
-22. All Accounts<br>
-23. My Accounts<br>
-24. ResolveURL	
+2.  Fen<br>
+3.  Fen Light<br>                  
+4.  Ezra<br>
+5.  The Coalition<br>
+6.  POV<br>                     
+7.  Umbrella<br>
+8.  Dradis<br>
+9.  Taz19<br>            
+10. Shadow<br>              
+11. Ghost<br>
+12. Base19<br>                 
+13. Unleashed<br>             
+14. Chain Reaction<br>
+15. Twisted<br>
+16. Magic Dragon<br>
+17. Asgard<br>
+18. Patriot<br>
+19. Black Lightning<br>
+20. M.E.T.V<br>
+21. Aliunde K19<br>
+22. Otaku<br>
+23. All Accounts<br>
+24. My Accounts<br>
+25. ResolveURL	
 
 
 ### Trakt Supported Addons:
                   
 1.  Seren (Custom Trakt API Keys Only)<br>
 2.  Fen<br>
-3.  Ezra<br>
-4.  The Coalition<br>
-5.  POV<br>                  
-6.  Umbrella<br>
-7.  Dradis<br>
-8.  Taz19<br>
-9.  Shadow<br>
-10. Ghost<br>
-11. Base19<br>
-12. Unleashed <br>           
-13. Chain Reaction<br>
-14. Magic Dragon<br>
-15. Asgard<br>
-16. Patriot<br>
-17. Black Lightning<br>
-18. Aliunde K19<br>
-19. Homelander<br>
-20. TheLab<br>
-21. Quicksilver<br>
-22. Chains Genocide<br>
-23. Absolution <br>      
-24. Shazam<br>
-25. The Crew<br>              
-26. Nightwing<br> 
-27. Alvin<br>
-28. Moria<br>
-29. 9 Lives<br>
-30. Scrubs V2<br>
-31. TheLabjr<br>
-32. TMDb Helper<br>
-33. Trakt Add-on<br>
-34. All Accounts<br>
-35. My Accounts
+3.  Fen Light<br>
+4.  Ezra<br>
+5.  The Coalition<br>
+6.  POV<br>                  
+7.  Umbrella<br>
+8.  Dradis<br>
+9.  Taz19<br>
+10. Shadow<br>
+11. Ghost<br>
+12. Base19<br>
+13. Unleashed <br>           
+14. Chain Reaction<br>
+15. Magic Dragon<br>
+16. Asgard<br>
+17. Patriot<br>
+18. Black Lightning<br>
+19. Aliunde K19<br>
+20. Homelander<br>
+21. TheLab<br>
+22. Quicksilver<br>
+23. Chains Genocide<br>
+24. Absolution <br>      
+25. Shazam<br>
+26. The Crew<br>              
+27. Nightwing<br> 
+28. Alvin<br>
+29. Moria<br>
+30. 9 Lives<br>
+31. Scrubs V2<br>
+32. TheLabjr<br>
+33. TMDb Helper<br>
+34. Trakt Add-on<br>
+35. All Accounts<br>
+36. My Accounts
 
 
 ### Metadata Supported Addons:
 
 1.  Seren<br>                  
 2.  Fen<br>
-3.  Ezra<br>
-4.  The Coalition<br>
-5.  POV<br>                   
-6.  Umbrella<br>
-7.  Dradis<br>
-8.  Taz19<br>
-9.  The Crew<br> 
-10. Homelander<br>
-11. TheLab<br> 
-12. Quicksilver<br>
-13. Chains Genocide<br>           
-14. Shazam<br>
-15. Nightwing<br>
-16. Alvin<br>
-17. Moria<br>
-18. Absolution<br>
-19. 9 Lives<br>
-20. TMDb Helper<br>
-21. Embuary Info<br>
-22. Metahandler<br>
-23. PVR Artwork Module<br>
-24. All Accounts<br>
-25. My Accounts
+3.  Fen Light<br>
+4.  Ezra<br>
+5.  The Coalition<br>
+6.  POV<br>                   
+7.  Umbrella<br>
+8.  Dradis<br>
+9.  Taz19<br>
+10. The Crew<br> 
+11. Homelander<br>
+12. TheLab<br> 
+13. Quicksilver<br>
+14. Chains Genocide<br>           
+15. Shazam<br>
+16. Nightwing<br>
+17. Alvin<br>
+18. Moria<br>
+19. Absolution<br>
+20. 9 Lives<br>
+21. TMDb Helper<br>
+22. Embuary Info<br>
+23. Metahandler<br>
+24. PVR Artwork Module<br>
+25. All Accounts<br>
+26. My Accounts
 
 
 ### Furk Supported Addons:
@@ -289,16 +282,17 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 
 ### Easynews Supported Addons:
 
-1. Fen<br>
-2. Ezra<br>
-3. The Coalition<br>
-3. POV<br>
-4. Umbrella<br>
-5. Dradis<br>
-6. Taz19<br>
-7. The Crew<br>
-8. All Accounts<br>
-9. My Accounts
+1.  Fen<br>
+2.  Fen Light<br>
+3.  Ezra<br>
+4.  The Coalition<br>
+5.  POV<br>
+6.  Umbrella<br>
+7.  Dradis<br>
+8.  Taz19<br>
+9.  The Crew<br>
+10. All Accounts<br>
+11. My Accounts
 
 
 ### FilePursuit Supported Addons:

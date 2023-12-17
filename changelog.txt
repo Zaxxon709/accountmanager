@@ -1,3 +1,5 @@
+2.4.0 - Added support for missing settings.xml's. During the authorization process any directories/settings.xml's not created after initial install of an add-on will now be automatically created. Added Fen light and changed Base 19 plugin name to Base. Minor bug fixes and clean up.
+
 2.3.9 - Streamlined the initial authorization process to reduce the time taken to complete. Edited the view authorizations window to give it a cleaner look. Disabled auto-backup of Trakt & Debrid data during authorization by default. If needed, this feature can be re-enabled in settings/configure backup. Enabled update notifications by default so users who didn't install via repo will know there is an update available.
 
 2.3.8 - Fixed acctview write error during backup/revoke operations. Added Otaku.
