@@ -113,7 +113,7 @@ RunScript(script.module.accountmgr, action=ReSyncAll)</p>
 RunScript(script.module.accountmgr, action=SyncAll)</p>
 
 <p>Sync Metadata Accounts<br>
-RunScript(script.module.accountmgr, action=metaSync)</p><br>
+RunScript(script.module.accountmgr, action=metaReSync)</p><br>
 
 
 ### View Authorized Add-ons Built-in Commands:<br>
