@@ -122,8 +122,6 @@ RunScript(script.module.accountmgr, action=metaReSync)</p>
 
 ### View Authorized Addons<br>
 
-- This allows the user to view what addons are currently authorized
-
 <p>Real-Debrid<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=realdebrid,return)</p>
 
