@@ -11,7 +11,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 <ul>
     <li>Open the Kodi File Manager</li>
     <li>Select "Add source"</li>
-    <li>The path for the source is <code>https://zaxxon709.github.io/repo/</code> (Give it the name "709REPO")</li><br>
+    <li>The path for the source is <code>https://zaxxon709.github.io/repo/</code> (Give it the name "709REPO")</li>
 </ul>  
 
 
@@ -20,7 +20,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 - You can enter your keys within Account Manager's settings menu.
 - If you do not already have keys then just follow the link below to create them.<br>
 
-<code>https://trakt.tv/oauth/applications/new</code><br><br>
+<code>https://trakt.tv/oauth/applications/new</code><br>
 
 
 ### Backup/Restore Data:
@@ -30,7 +30,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 - The default path is not persistent after build updates or fresh starts. For builders, I'd recommend your wizard data path for backups.<br>
 - The default backup path can be changed any time in Account Manager's settings menu. If the default path is changed make sure to complete another backup.<br>
 
-<p>Default Backup Path = special://userdata/addon_data/plugin.program.accountmgr/</p><br>
+<p>Default Backup Path = special://userdata/addon_data/plugin.program.accountmgr/</p>
 
 
 ### Restore all Add-ons to Default:
@@ -38,7 +38,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
     <li>WARNING! Use only to restore system to default settings.</li>
     <li>Open Account Manager and Navigate to the ‘Advanced’ category.
     <li>Select ‘Restore Default Settings'</li>
-    <li>This action will revoke all services, reset all add-on settings back to default, and delete all your saved data</li><br>
+    <li>This action will revoke all services, reset all add-on settings back to default, and delete all your saved data</li>
 </ul>
 
 
@@ -48,7 +48,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
     <li>Navigate to the ‘Accounts’ category and choose your debrid service(s)</li>
     <li>Select 'Authorize' and proceed to pair your account</li>
     <li>Wait for the 'Sync is complete' notification and choose 'OK' to exit</li>
-    <li>All supported add-ons are now authorized!</li><br>
+    <li>All supported add-ons are now authorized!</li>
 </ul>
 
 
@@ -57,7 +57,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
     <li>Open Account Manager</li>
     <li>Navigate to the ‘Accounts’ category and select ‘Authorize’ to pair your account</li>
     <li>Wait for the 'Sync is complete' notification and when prompted choose 'OK' to force close Kodi</li>
-    <li>All supported add-ons are now authorized!</li><br>
+    <li>All supported add-ons are now authorized!</li>
 </ul>
 
 
@@ -67,12 +67,12 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
     <li>Navigate to the ‘Accounts’ category and add your data into the appropriate field(s)</li>
     <li>Choose 'Sync Add-ons' to sync your data with installed Add-ons</li>
     <li>Wait for the 'Sync is complete' notification and when prompted choose 'OK' to force close Kodi</li>
-    <li>All supported add-ons are now synced!</li><br>
+    <li>All supported add-ons are now synced!</li>
 </ul>
 
 ### Open Accounts Manager:
 
-<p>RunAddon(script.module.accountmgr)</p><br>
+<p>RunAddon(script.module.accountmgr)</p>
 
 ### Authorize Built-in Commands:
 
