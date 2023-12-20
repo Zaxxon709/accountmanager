@@ -74,11 +74,11 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 
 ### Built-in Commands:
 
-### ---Open Accounts Manager---:
+### Open Accounts Manager
 
 <p>RunAddon(script.module.accountmgr)</p>
 
-### ---Authorize---<br>
+### Authorize<br>
 
 <p>Real-Debrid<br>
 RunScript(script.module.accountmgr, action=realdebridAuth)</p>
@@ -96,7 +96,7 @@ RunScript(script.module.accountmgr, action=traktAuth)</p>
 RunScript(script.module.accountmgr, action=tmdbAuth)</p>
 
 
-### ---Sync---<br>
+### Sync<br>
 
 <p>Real-Debrid<br>
 RunScript(script.module.accountmgr, action=realdebridReSync)</p>
@@ -120,7 +120,7 @@ RunScript(script.module.accountmgr, action=SyncAll)</p>
 RunScript(script.module.accountmgr, action=metaReSync)</p>
 
 
-### ---View Authorized Add-ons---<br>
+### View Authorized Addons<br>
 
 - This allows the user to view what addons are currently authorized
 
@@ -146,7 +146,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=nondebrid,return)</p>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><br>
 
 
-### Supported Services
+### Supported Services:
 
 1.  Real-Debrid<br>
 2.  Premiumize<br>
@@ -162,7 +162,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 12. TMDb<br>
 13. TVDb<br>
 
-### Supported Addons
+### Supported Addons:
 
 ### Debrid
 
