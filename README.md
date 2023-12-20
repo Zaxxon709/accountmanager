@@ -11,7 +11,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 <ul>
     <li>Open the Kodi File Manager</li>
     <li>Select "Add source"</li>
-    <li>The path for the source is <code>https://zaxxon709.github.io/repo/</code> (Give it the name "709REPO")</li>
+    <li>The path for the source is <code>https://zaxxon709.github.io/repo/</code> (Give it the name "709REPO")</li><br>
 </ul>  
 
 
@@ -20,7 +20,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 - You can enter your keys within Account Manager's settings menu.
 - If you do not already have keys then just follow the link below to create them.<br>
 
-<code>https://trakt.tv/oauth/applications/new</code>
+<code>https://trakt.tv/oauth/applications/new</code><br>
 
 
 ### Backup/Restore Data:
@@ -30,7 +30,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 - The default path is not persistent after build updates or fresh starts. For builders, I'd recommend your wizard data path for backups.<br>
 - The default backup path can be changed any time in Account Manager's settings menu. If the default path is changed make sure to complete another backup.<br>
 
-<p>Default Backup Path = special://userdata/addon_data/plugin.program.accountmgr/</p>
+<p>Default Backup Path = special://userdata/addon_data/plugin.program.accountmgr/</p><br>
 
 
 ### Restore all Add-ons to Default:
