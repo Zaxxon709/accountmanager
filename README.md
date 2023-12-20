@@ -163,29 +163,30 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 
 1.  Seren<br>                   
 2.  Fen<br>
-3.  Fen Light<br>                  
-4.  Ezra<br>
-5.  The Coalition<br>
-6.  POV<br>                     
-7.  Umbrella<br>
-8.  Dradis<br>
-9.  Taz19<br>            
-10. Shadow<br>              
-11. Ghost<br>
-12. Base19<br>                 
-13. Unleashed<br>             
-14. Chain Reaction<br>
-15. Twisted<br>
-16. Magic Dragon<br>
-17. Asgard<br>
-18. Patriot<br>
-19. Black Lightning<br>
-20. M.E.T.V<br>
-21. Aliunde K19<br>
-22. Otaku<br>
-23. All Accounts<br>
-24. My Accounts<br>
-25. ResolveURL	
+3.  Fen Light<br>
+4.  afFENity<br>                  
+5.  Ezra<br>
+6.  The Coalition<br>
+7.  POV<br>                     
+8.  Umbrella<br>
+9.  Dradis<br>
+10. Taz19<br>            
+11. Shadow<br>              
+12. Ghost<br>
+13. Base<br>                 
+14. Unleashed<br>             
+15. Chain Reaction<br>
+16. Twisted<br>
+17. Magic Dragon<br>
+18. Asgard<br>
+19. Patriot<br>
+20. Black Lightning<br>
+21. M.E.T.V<br>
+22. Aliunde<br>
+23. Otaku<br>
+24. All Accounts<br>
+25. My Accounts<br>
+26. ResolveURL	
 
 
 ### Trakt Supported Addons:
@@ -193,39 +194,40 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 1.  Seren (Custom Trakt API Keys Only)<br>
 2.  Fen<br>
 3.  Fen Light<br>
-4.  Ezra<br>
-5.  The Coalition<br>
-6.  POV<br>                  
-7.  Umbrella<br>
-8.  Dradis<br>
-9.  Taz19<br>
-10. Shadow<br>
-11. Ghost<br>
-12. Base19<br>
-13. Unleashed <br>           
-14. Chain Reaction<br>
-15. Magic Dragon<br>
-16. Asgard<br>
-17. Patriot<br>
-18. Black Lightning<br>
-19. Aliunde K19<br>
-20. Homelander<br>
-21. TheLab<br>
-22. Quicksilver<br>
-23. Chains Genocide<br>
-24. Absolution <br>      
-25. Shazam<br>
-26. The Crew<br>              
-27. Nightwing<br> 
-28. Alvin<br>
-29. Moria<br>
-30. 9 Lives<br>
-31. Scrubs V2<br>
-32. TheLabjr<br>
-33. TMDb Helper<br>
-34. Trakt Add-on<br>
-35. All Accounts<br>
-36. My Accounts
+4.  afFENity<br>
+5.  Ezra<br>
+6.  The Coalition<br>
+7.  POV<br>                  
+8.  Umbrella<br>
+9.  Dradis<br>
+10. Taz19<br>
+11. Shadow<br>
+12. Ghost<br>
+13. Base<br>
+14. Unleashed<br>           
+15. Chain Reaction<br>
+16. Magic Dragon<br>
+17. Asgard<br>
+18. Patriot<br>
+19. Black Lightning<br>
+20. Aliunde K19<br>
+21. Homelander<br>
+22. TheLab<br>
+23. Quicksilver<br>
+24. Chains Genocide<br>
+25. Absolution<br>      
+26. Shazam<br>
+27. The Crew<br>              
+28. Nightwing<br> 
+29. Alvin<br>
+30. Moria<br>
+31. Nine Lives<br>
+32. Scrubs V2<br>
+33. TheLabjr<br>
+34. TMDb Helper<br>
+35. Trakt Add-on<br>
+36. All Accounts<br>
+37. My Accounts
 
 
 ### Metadata Supported Addons:
@@ -233,29 +235,30 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 1.  Seren<br>                  
 2.  Fen<br>
 3.  Fen Light<br>
-4.  Ezra<br>
-5.  The Coalition<br>
-6.  POV<br>                   
-7.  Umbrella<br>
-8.  Dradis<br>
-9.  Taz19<br>
-10. The Crew<br> 
-11. Homelander<br>
-12. TheLab<br> 
-13. Quicksilver<br>
-14. Chains Genocide<br>           
-15. Shazam<br>
-16. Nightwing<br>
-17. Alvin<br>
-18. Moria<br>
-19. Absolution<br>
-20. 9 Lives<br>
-21. TMDb Helper<br>
-22. Embuary Info<br>
-23. Metahandler<br>
-24. PVR Artwork Module<br>
-25. All Accounts<br>
-26. My Accounts
+4.  afFENity<br>
+5.  Ezra<br>
+6.  The Coalition<br>
+7.  POV<br>                   
+8.  Umbrella<br>
+9.  Dradis<br>
+10. Taz19<br>
+11. The Crew<br> 
+12. Homelander<br>
+13. TheLab<br> 
+14. Quicksilver<br>
+15. Chains Genocide<br>           
+16. Shazam<br>
+17. Nightwing<br>
+18. Alvin<br>
+19. Moria<br>
+20. Absolution<br>
+21. Nine Lives<br>
+22. TMDb Helper<br>
+23. Embuary Info<br>
+24. Metahandler<br>
+25. PVR Artwork Module<br>
+26. All Accounts<br>
+27. My Accounts
 
 
 ### Furk Supported Addons:
@@ -277,7 +280,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 15. Alvin<br>
 16. Moria<br>
 17. Absolution<br>
-18. 9 Lives<br>
+18. Nine Lives<br>
 19. All Accounts<br>
 20. My Accounts
 
@@ -286,15 +289,16 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 
 1.  Fen<br>
 2.  Fen Light<br>
-3.  Ezra<br>
-4.  The Coalition<br>
-5.  POV<br>
-6.  Umbrella<br>
-7.  Dradis<br>
-8.  Taz19<br>
-9.  The Crew<br>
-10. All Accounts<br>
-11. My Accounts
+3.  afFENity<br>
+4.  Ezra<br>
+5.  The Coalition<br>
+6.  POV<br>
+7.  Umbrella<br>
+8.  Dradis<br>
+9.  Taz19<br>
+10. The Crew<br>
+11. All Accounts<br>
+12. My Accounts
 
 
 ### FilePursuit Supported Addons:
