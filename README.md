@@ -20,7 +20,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 - You can enter your keys within Account Manager's settings menu.
 - If you do not already have keys then just follow the link below to create them.<br>
 
-<code>https://trakt.tv/oauth/applications/new</code><br>
+<code>https://trakt.tv/oauth/applications/new</code><br><br>
 
 
 ### Backup/Restore Data:
