@@ -67,7 +67,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
     <li>Navigate to the ‘Accounts’ category and add your data into the appropriate field(s)</li>
     <li>Choose 'Sync Add-ons' to sync your data with installed Add-ons</li>
     <li>Wait for the 'Sync is complete' notification and when prompted choose 'OK' to force close Kodi</li>
-    <li>All supported add-ons are now synced!</li>
+    <li>All supported add-ons are now synced!</li><br>
 </ul>
 
 
