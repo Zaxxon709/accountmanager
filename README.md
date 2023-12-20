@@ -72,9 +72,12 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 
 ### Open Accounts Manager:
 
-<p>RunAddon(script.module.accountmgr)</p>
+<p>RunAddon(script.module.accountmgr)</p><br>
 
-### Authorize Built-in Commands:
+
+### Built-in Commands:
+
+### ---Authorize---<br>
 
 <p>Real-Debrid<br>
 RunScript(script.module.accountmgr, action=realdebridAuth)</p>
@@ -92,7 +95,7 @@ RunScript(script.module.accountmgr, action=traktAuth)</p>
 RunScript(script.module.accountmgr, action=tmdbAuth)</p><br>
 
 
-### Sync Built-in Commands:<br>
+### ---Sync---<br>
 
 <p>Real-Debrid<br>
 RunScript(script.module.accountmgr, action=realdebridReSync)</p>
@@ -116,7 +119,7 @@ RunScript(script.module.accountmgr, action=SyncAll)</p>
 RunScript(script.module.accountmgr, action=metaReSync)</p><br>
 
 
-### View Authorized Add-ons Built-in Commands:<br>
+### ---View Authorized Add-ons---<br>
 
 - This allows the user to view what addons are currently authorized
 
@@ -142,7 +145,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=nondebrid,return)</p>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><br>
 
 
-### Supported Services:
+### Supported Services
 
 1.  Real-Debrid<br>
 2.  Premiumize<br>
@@ -159,7 +162,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 13. TVDb<br>
 
 
-### Debrid Supported Addons:
+### Debrid - Supported Addons
 
 1.  Seren<br>                   
 2.  Fen<br>
@@ -189,7 +192,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 26. ResolveURL	
 
 
-### Trakt Supported Addons:
+### Trakt - Supported Addons
                   
 1.  Seren (Custom Trakt API Keys Only)<br>
 2.  Fen<br>
@@ -230,7 +233,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 37. My Accounts
 
 
-### Metadata Supported Addons:
+### Metadata - Supported Addons
 
 1.  Seren<br>                  
 2.  Fen<br>
@@ -261,7 +264,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 27. My Accounts
 
 
-### Furk Supported Addons:
+### Furk - Supported Addons
 
 1.  Fen<br>
 2.  Ezra<br>
@@ -285,7 +288,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 20. My Accounts
 
 
-### Easynews Supported Addons:
+### Easynews - Supported Addons
 
 1.  Fen<br>
 2.  Fen Light<br>
@@ -301,7 +304,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 12. My Accounts
 
 
-### FilePursuit Supported Addons:
+### FilePursuit - Supported Addons
 
 1. Umbrella<br>
 2. Dradis<br>
