@@ -164,7 +164,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 
 ### Supported Addons
 
-### ---Debrid---
+### Debrid
 
 1.  Seren<br>                   
 2.  Fen<br>
@@ -194,7 +194,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 26. ResolveURL	
 
 
-### ---Trakt---
+### Trakt
                   
 1.  Seren (Custom Trakt API Keys Only)<br>
 2.  Fen<br>
@@ -235,7 +235,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 37. My Accounts
 
 
-### ---Metadata---
+### Metadata
 
 1.  Seren<br>                  
 2.  Fen<br>
@@ -266,7 +266,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 27. My Accounts
 
 
-### ---Furk---
+### Furk
 
 1.  Fen<br>
 2.  Ezra<br>
@@ -290,7 +290,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 20. My Accounts
 
 
-### ---Easynews---
+### Easynews
 
 1.  Fen<br>
 2.  Fen Light<br>
@@ -306,7 +306,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 12. My Accounts
 
 
-### ---FilePursuit---
+### FilePursuit
 
 1. Umbrella<br>
 2. Dradis<br>
