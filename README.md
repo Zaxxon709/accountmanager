@@ -187,9 +187,11 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 21. M.E.T.V<br>
 22. Aliunde<br>
 23. Otaku<br>
-24. All Accounts<br>
-25. My Accounts<br>
-26. ResolveURL	
+24. Realizer<br>
+25. Premiumizer<br>
+26. All Accounts<br>
+27. My Accounts<br>
+28. ResolveURL	
 
 
 ### Trakt
