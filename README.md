@@ -76,7 +76,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 
 ### Open Accounts Manager
 
-<p>RunAddon(script.module.accountmgr)</p>
+<p>RunAddon(script.module.accountmgr)</p><br>
 
 ### Authorize:<br>
 
@@ -93,7 +93,7 @@ RunScript(script.module.accountmgr, action=alldebridAuth)</p>
 RunScript(script.module.accountmgr, action=traktAuth)</p>
 
 <p>TMDb<br>
-RunScript(script.module.accountmgr, action=tmdbAuth)</p>
+RunScript(script.module.accountmgr, action=tmdbAuth)</p><br>
 
 
 ### Sync:<br>
@@ -117,7 +117,7 @@ RunScript(script.module.accountmgr, action=ReSyncAll)</p>
 RunScript(script.module.accountmgr, action=SyncAll)</p>
 
 <p>Sync Metadata Accounts<br>
-RunScript(script.module.accountmgr, action=metaReSync)</p>
+RunScript(script.module.accountmgr, action=metaReSync)</p><br>
 
 
 ### View Authorized Addons:<br>
