@@ -71,10 +71,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 </ul>
 
 
-
-### Built-in Commands:
-
-### Open Accounts Manager
+### Open Account Manager:
 
 <p>RunAddon(script.module.accountmgr)</p><br>
 
