@@ -78,7 +78,7 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 
 <p>RunAddon(script.module.accountmgr)</p>
 
-### Authorize<br>
+### Authorize:<br>
 
 <p>Real-Debrid<br>
 RunScript(script.module.accountmgr, action=realdebridAuth)</p>
@@ -96,7 +96,7 @@ RunScript(script.module.accountmgr, action=traktAuth)</p>
 RunScript(script.module.accountmgr, action=tmdbAuth)</p>
 
 
-### Sync<br>
+### Sync:<br>
 
 <p>Real-Debrid<br>
 RunScript(script.module.accountmgr, action=realdebridReSync)</p>
@@ -120,7 +120,7 @@ RunScript(script.module.accountmgr, action=SyncAll)</p>
 RunScript(script.module.accountmgr, action=metaReSync)</p>
 
 
-### View Authorized Addons<br>
+### View Authorized Addons:<br>
 
 <p>Real-Debrid<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=realdebrid,return)</p>
