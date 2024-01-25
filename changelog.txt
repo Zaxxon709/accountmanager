@@ -1,3 +1,7 @@
+2.4.3 - Fixed Trakt auth for TMDbH
+
+2.4.2 - Added Realizer and Premiumizer
+
 2.4.1 - Added afFENity. Fixed Taz19 trakt auth. Fixed all-debrid revoke failing for Fen Light.
 
 2.4.0 - Added Fen light. Added Base and removed Base 19. Added support for missing settings.xml's. During the authorization process Account Manager will now create the settings.xml for any add-ons that do not create them on intial install.
