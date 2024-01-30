@@ -17,17 +17,17 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 
 ### Custom Trakt API Key Section for Users:
 - If you have your own Trakt API keys, please use them.<br> 
-- You can enter your keys within Account Manager's settings under the Accounts menu.
+- You can enter your keys within Account Manager's settings under the Accounts menu.<br>
 - If you do not already have keys then just follow the link below to create them.<br>
 
 <code>https://trakt.tv/oauth/applications/new</code><br>
 
 
 ### Custom Trakt API Key Section for Builders:
-- Builders can add their own custom keys here.
-- If you have your own Trakt API keys, please use them. If you do not already have keys then just follow the link below to create them.<br><br> 
-- Keys added here are obfuscated using asterisks and are persistent after build updates and revokes.<br>
-- You can enter your keys within Account Manager's settings under the Advanced menu.
+- Builders can add their own custom keys here.<br>
+- If you do not already have keys then just follow the link below to create them.<br>
+- You can enter your keys within Account Manager's settings under the Advanced menu.<br>
+- Keys added here are obfuscated using asterisks and are persistent after add-on updates/revokes.<br><br>
 
 <code>https://trakt.tv/oauth/applications/new</code><br>
 
