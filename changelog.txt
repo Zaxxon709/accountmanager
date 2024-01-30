@@ -1,3 +1,5 @@
+2.4.4 - Added a persistent Trakt Key section under the Advanced menu for builders to add their own custom keys. Keys added here are obfuscated with asterisks and will be persistent after build updates and revokes. Some minor bug fixes and cleanup
+
 2.4.3 - Fixed Trakt auth for TMDbH
 
 2.4.2 - Added Realizer and Premiumizer
