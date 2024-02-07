@@ -1,4 +1,6 @@
-2.4.5 - Update Trakt API url
+2.2.6 - Removed Trakt service from settings. This service will now be auto enabled/disabled as required. Extensive cleanup behind the scenes to improve addon performance and functionality. Settings menu cleanup.
+
+2.2.5 - Remove depreciated Trakt API
 
 2.4.4 - Added a persistent Trakt Key section under the Advanced menu for builders to add their own custom keys. Keys added here are obfuscated with asterisks and will be persistent after build updates and revokes. Some minor bug fixes and cleanup
 

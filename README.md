@@ -17,17 +17,18 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 
 ### Custom Trakt API Key Section for Users:
 - If you have your own Trakt API keys, please use them.<br> 
-- You can enter your keys within Account Manager's settings under the Accounts menu.<br>
+- Open Account Manager's settings menu and navigate to the Accounts section to enable this feature and enter your keys<br>
 - If you do not already have keys then just follow the link below to create them.<br>
+IMPORTANT: If you have previously authorized Trakt via Account Manager but now wish to use your own Trakt API keys then you must revoke your current authorizations before applying your own custom keys.<br>
 
 <code>https://trakt.tv/oauth/applications/new</code><br>
 
 
 ### Custom Trakt API Key Section for Builders:
-- Builders can add their own custom keys here.<br>
+- Builders can add their own custom keys in this section.<br>
+- Open Account Manager's settings menu and naviagte to the Advanced section to enable this feature and enter your keys.<br>
+- Keys added here are obfuscated using asterisks and are persistent after add-on updates/revokes.<br>
 - If you do not already have keys then just follow the link below to create them.<br>
-- You can enter your keys within Account Manager's settings under the Advanced menu.<br>
-- Keys added here are obfuscated using asterisks and are persistent after add-on updates/revokes.<br><br>
 
 <code>https://trakt.tv/oauth/applications/new</code><br>
 
@@ -44,8 +45,8 @@ An add-on to make the painful task of authorizing numerous add-ons effortless. P
 
 ### Restore all Add-ons to Default:
 <ul>
-    <li>WARNING! Use only to restore system to default settings.</li>
-    <li>Open Account Manager and Navigate to the ‘Advanced’ category.
+    <li>Use ONLY to restore all add-ons to default settings prior to using Account Manager.</li>
+    <li>Open Account Manager and Navigate to the ‘Advanced’ category.</li>
     <li>Select ‘Restore Default Settings'</li>
     <li>This action will revoke all services, reset all add-on settings back to default, and delete all your saved data</li>
 </ul>
