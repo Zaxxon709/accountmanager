@@ -1,3 +1,9 @@
+2.4.9 - Update Umbrella Trakt settings to enable trakt scrobble after auth. Update setting xml's
+
+2.4.8 - Fix error when auto-syncing Trakt with MyAccounts
+
+2.4.7 - Fixed the Account Expiry Notification for all debrid services. The user should now get a notification within 15 days of expiry if the service is enabled. Fix Homelander metadata error.
+
 2.4.6 - Removed Trakt service from settings. This service will now be auto enabled/disabled as required. Extensive cleanup behind the scenes to improve addon performance and functionality. Settings menu cleanup.
 
 2.4.5 - Remove depreciated Trakt API
