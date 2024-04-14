@@ -52,35 +52,6 @@ IMPORTANT: If you have previously authorized Trakt via Account Manager but now w
 </ul>
 
 
-### How to Authorize Debrid:
-<ul>
-    <li>Open Account Manager</li>
-    <li>Navigate to the ‘Accounts’ category and choose your debrid service(s)</li>
-    <li>Select 'Authorize' and proceed to pair your account</li>
-    <li>Wait for the 'Sync is complete' notification and choose 'OK' to exit</li>
-    <li>All supported add-ons are now authorized!</li>
-</ul>
-
-
-### How to Authorize Trakt:
-<ul>
-    <li>Open Account Manager</li>
-    <li>Navigate to the ‘Accounts’ category and select ‘Authorize’ to pair your account</li>
-    <li>Wait for the 'Sync is complete' notification and when prompted choose 'OK' to force close Kodi</li>
-    <li>All supported add-ons are now authorized!</li>
-</ul>
-
-
-### How to Sync Furk/Easynews/FilePursuit and Metadata:
-<ul>
-    <li>Open Account Manager</li>
-    <li>Navigate to the ‘Accounts’ category and add your data into the appropriate field(s)</li>
-    <li>Choose 'Sync Add-ons' to sync your data with installed Add-ons</li>
-    <li>Wait for the 'Sync is complete' notification and when prompted choose 'OK' to force close Kodi</li>
-    <li>All supported add-ons are now synced!</li><br>
-</ul>
-
-
 ### Open Account Manager:
 
 <p>RunAddon(script.module.accountmgr)</p><br>
@@ -96,8 +67,14 @@ RunScript(script.module.accountmgr, action=premiumizeAuth)</p>
 <p>AllDebrid<br>
 RunScript(script.module.accountmgr, action=alldebridAuth)</p>
 
+<p>OffCloud<br>
+RunScript(script.module.accountmgr, action=offcloudAuth)</p>
+
 <p>Trakt<br>
 RunScript(script.module.accountmgr, action=traktAuth)</p>
+
+<p>Simkl<br>
+RunScript(script.module.accountmgr, action=simklAuth)</p>
 
 <p>TMDb<br>
 RunScript(script.module.accountmgr, action=tmdbAuth)</p><br>
@@ -114,16 +91,25 @@ RunScript(script.module.accountmgr, action=premiumizeReSync)</p>
 <p>AllDebrid<br>
 RunScript(script.module.accountmgr, action=alldebridReSync)</p>
 
+<p>OffCloud<br>
+RunScript(script.module.accountmgr, action=offcloudReSync)</p>
+
 <p>Trakt<br>
 RunScript(script.module.accountmgr, action=traktReSync)</p>
+
+<p>Simkl<br>
+RunScript(script.module.accountmgr, action=simklReSync)</p>
 
 <p>Sync Multiple Debrid Accounts<br>
 RunScript(script.module.accountmgr, action=ReSyncAll)</p>
 
-<p>Sync Furk/Easynews/FilePursuit Accounts<br>
-RunScript(script.module.accountmgr, action=SyncAll)</p>
+<p>Easynews<br>
+RunScript(script.module.accountmgr, action=easynewsReSync)</p>
 
-<p>Sync Metadata Accounts<br>
+<p>FilePursuit<br>
+RunScript(script.module.accountmgr, action=filepursuitReSync)</p>
+
+<p>Metadata<br>
 RunScript(script.module.accountmgr, action=metaReSync)</p><br>
 
 
@@ -138,14 +124,23 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=premiumize,return)</p
 <p>AllDebrid<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=alldebrid,return)</p>
 
+<p>OffCloud<br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=easynews,return)</p>
+
 <p>Trakt<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=trakt,return)</p>
+
+<p>Simkl<br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=simkl,return)</p>
 
 <p>View Multiple Debrid Accounts<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p>
 
-<p>View Furk/Easynews/FilePursuit Accounts<br>
-ActivateWindow(10001,plugin://script.module.acctview/?mode=nondebrid,return)</p>
+<p>Easynews<br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=easynews,return)</p>
+
+<p>FilePursuit<br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=filepursuit,return)</p>
 
 <p>View Metadata Accounts<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><br>
@@ -156,16 +151,17 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 1.  Real-Debrid<br>
 2.  Premiumize<br>
 3.  All-Debrid<br>
-4.  Trakt<br>
-5.  Furk<br>
-6.  Easynews<br>
-7.  FilePursuit<br>
-8.  Fanart.TV<br>
-9.  OMDb<br>
-10. MDbList<br>
-11. IMDb<br>
-12. TMDb<br>
-13. TVDb<br>
+4.  OffCloud
+5.  Trakt<br>
+6.  Simkl<br>
+7.  Easynews<br>
+8.  FilePursuit<br>
+9.  Fanart.TV<br>
+10. OMDb<br>
+11. MDbList<br>
+12. IMDb<br>
+13. TMDb<br>
+14. TVDb<br>
 
 ### Supported Addons:
 
@@ -199,6 +195,12 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 26. All Accounts<br>
 27. My Accounts<br>
 28. ResolveURL	
+
+
+### OffCloud
+
+1. POV<br>
+2. Dradis
 
 
 ### Trakt
@@ -242,6 +244,37 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 37. My Accounts
 
 
+### Simkl
+
+1. Umbrella<br>
+2. Otaku<br>
+3. Simkl TV Tracker
+
+
+### Easynews
+
+1.  Fen<br>
+2.  Fen Light<br>
+3.  afFENity<br>
+4.  Ezra<br>
+5.  The Coalition<br>
+6.  POV<br>
+7.  Umbrella<br>
+8.  Dradis<br>
+9.  Taz19<br>
+10. The Crew<br>
+11. All Accounts<br>
+12. My Accounts
+
+
+### FilePursuit
+
+1. Umbrella<br>
+2. Dradis<br>
+3. All Accounts<br>
+4. My Accounts
+
+
 ### Metadata
 
 1.  Seren<br>                  
@@ -271,51 +304,3 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 25. PVR Artwork Module<br>
 26. All Accounts<br>
 27. My Accounts
-
-
-### Furk
-
-1.  Fen<br>
-2.  Ezra<br>
-3.  The Coalition<br>
-4.  POV<br>
-5.  Umbrella<br>
-6.  Dradis<br>
-7.  Taz19<br>
-8.  The Crew<br>
-9.  Homelander<br>
-10. TheLab<br>
-11. Quicksilver<br>
-12. Chains Genocide<br>
-13. Shazam<br>
-14. Nightwing<br>
-15. Alvin<br>
-16. Moria<br>
-17. Absolution<br>
-18. Nine Lives<br>
-19. All Accounts<br>
-20. My Accounts
-
-
-### Easynews
-
-1.  Fen<br>
-2.  Fen Light<br>
-3.  afFENity<br>
-4.  Ezra<br>
-5.  The Coalition<br>
-6.  POV<br>
-7.  Umbrella<br>
-8.  Dradis<br>
-9.  Taz19<br>
-10. The Crew<br>
-11. All Accounts<br>
-12. My Accounts
-
-
-### FilePursuit
-
-1. Umbrella<br>
-2. Dradis<br>
-3. All Accounts<br>
-4. My Accounts
