@@ -1,4 +1,6 @@
-2.5.0 - Removed Furk support. Added support for both Simkl and Offcloud. Fixed metadata authorizations not being dsiplayed in acctviewer. Updated Dradis & POV Trakt auth settings. Fixed an issue that was causing the 'Restore to Default Settings' feature to fail for Trakt.
+2.5.1 - Fix Moria and Absolution metadata. Update settings.
+
+2.5.0 - Removed Furk support. Added support for both Simkl and Offcloud. Fixed metadata authorizations not being dsiplayed in acctviewer. Fixed Dradis & POV Trakt auth. Fixed an issue that was causing the Restore to Default Settings feature to fail.
 
 2.4.9 - Update Umbrella Trakt settings to enable trakt scrobble after auth. Update setting xml's
 
