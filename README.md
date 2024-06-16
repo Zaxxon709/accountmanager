@@ -188,12 +188,13 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 20. Black Lightning<br>
 21. M.E.T.V<br>
 22. Aliunde<br>
-23. Otaku<br>
-24. Realizer<br>
-25. Premiumizer<br>
-26. All Accounts<br>
-27. My Accounts<br>
-28. ResolveURL	
+23. Nightwing Lite<br>
+24. Otaku<br>
+25. Realizer<br>
+26. Premiumizer<br>
+27. All Accounts<br>
+28. My Accounts<br>
+29. ResolveURL	
 
 
 ### OffCloud
@@ -224,13 +225,13 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 18. Patriot<br>
 19. Black Lightning<br>
 20. Aliunde K19<br>
-21. Homelander<br>
-22. Quicksilver<br>
-23. Chains Genocide<br>
-24. Absolution<br>      
-25. Shazam<br>
-26. The Crew<br>              
-27. Nightwing<br> 
+21. Nightwing Lite<br>
+22. Homelander<br>
+23. Quicksilver<br>
+24. Chains Genocide<br>
+25. Absolution<br>      
+26. Shazam<br>
+27. The Crew<br>              
 28. Alvin<br>
 29. Moria<br>
 30. Nine Lives<br>
