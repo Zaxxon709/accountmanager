@@ -284,14 +284,13 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 14. Quicksilver<br>
 15. Chains Genocide<br>           
 16. Shazam<br>
-17. Nightwing<br>
-18. Alvin<br>
-19. Moria<br>
-20. Absolution<br>
-21. Nine Lives<br>
-22. TMDb Helper<br>
-23. Embuary Info<br>
-24. Metahandler<br>
-25. PVR Artwork Module<br>
-26. All Accounts<br>
-27. My Accounts
+17. Alvin<br>
+18. Moria<br>
+19. Absolution<br>
+20. Nine Lives<br>
+21. TMDb Helper<br>
+22. Embuary Info<br>
+23. Metahandler<br>
+24. PVR Artwork Module<br>
+25. All Accounts<br>
+26. My Accounts
