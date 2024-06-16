@@ -280,17 +280,16 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 10. Taz19<br>
 11. The Crew<br> 
 12. Homelander<br>
-13. TheLab<br> 
-14. Quicksilver<br>
-15. Chains Genocide<br>           
-16. Shazam<br>
-17. Alvin<br>
-18. Moria<br>
-19. Absolution<br>
-20. Nine Lives<br>
-21. TMDb Helper<br>
-22. Embuary Info<br>
-23. Metahandler<br>
-24. PVR Artwork Module<br>
-25. All Accounts<br>
-26. My Accounts
+13. Quicksilver<br>
+14. Chains Genocide<br>           
+15. Shazam<br>
+16. Alvin<br>
+17. Moria<br>
+18. Absolution<br>
+19. Nine Lives<br>
+20. TMDb Helper<br>
+21. Embuary Info<br>
+22. Metahandler<br>
+23. PVR Artwork Module<br>
+24. All Accounts<br>
+25. My Accounts
