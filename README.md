@@ -153,15 +153,14 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 3.  All-Debrid<br>
 4.  OffCloud
 5.  Trakt<br>
-6.  Simkl<br>
-7.  Easynews<br>
-8.  FilePursuit<br>
-9.  Fanart.TV<br>
-10. OMDb<br>
-11. MDbList<br>
-12. IMDb<br>
-13. TMDb<br>
-14. TVDb<br>
+6.  Easynews<br>
+7.  FilePursuit<br>
+8.  Fanart.TV<br>
+9.  OMDb<br>
+10. MDbList<br>
+11. IMDb<br>
+12. TMDb<br>
+13. TVDb<br>
 
 ### Supported Addons:
 
@@ -226,29 +225,20 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 19. Black Lightning<br>
 20. Aliunde K19<br>
 21. Homelander<br>
-22. TheLab<br>
-23. Quicksilver<br>
-24. Chains Genocide<br>
-25. Absolution<br>      
-26. Shazam<br>
-27. The Crew<br>              
-28. Nightwing<br> 
-29. Alvin<br>
-30. Moria<br>
-31. Nine Lives<br>
-32. Scrubs V2<br>
-33. TheLabjr<br>
-34. TMDb Helper<br>
-35. Trakt Add-on<br>
-36. All Accounts<br>
-37. My Accounts
-
-
-### Simkl
-
-1. Umbrella<br>
-2. Otaku<br>
-3. Simkl TV Tracker
+22. Quicksilver<br>
+23. Chains Genocide<br>
+24. Absolution<br>      
+25. Shazam<br>
+26. The Crew<br>              
+27. Nightwing<br> 
+28. Alvin<br>
+29. Moria<br>
+30. Nine Lives<br>
+31. Scrubs V2<br>
+32. TMDb Helper<br>
+33. Trakt Add-on<br>
+34. All Accounts<br>
+35. My Accounts
 
 
 ### Easynews

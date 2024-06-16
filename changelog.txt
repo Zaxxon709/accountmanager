@@ -1,3 +1,5 @@
+2.5.4 - Removed Nightwing, TheLab, TheLabjr. Added Nightwing Lite
+
 2.5.4 - Added OneMoar
 
 2.5.3 - Update Fen Light Trakt and Metadata settings.
