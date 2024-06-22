@@ -1,3 +1,5 @@
+2.5.5 - Removed OneMoar. Added Infinity
+
 2.5.5 - Removed Nightwing, TheLab, TheLabjr. Added Nightwing Lite
 
 2.5.4 - Added OneMoar
