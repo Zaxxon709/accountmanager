@@ -1,8 +1,10 @@
-2.5.6 - Removed OneMoar. Added Infinity
+2.5.7 - Add fix for case sensitive plugin names.
 
-2.5.5 - Removed Nightwing, TheLab, TheLabjr. Added Nightwing Lite
+2.5.6 - Removed OneMoar. Added Infinity.
 
-2.5.4 - Added OneMoar
+2.5.5 - Removed Nightwing, TheLab, TheLabjr. Added Nightwing Lite.
+
+2.5.4 - Added OneMoar.
 
 2.5.3 - Update Fen Light Trakt and Metadata settings.
 
@@ -12,21 +14,21 @@
 
 2.5.0 - Removed Furk support. Added support for both Simkl and Offcloud. Fixed metadata authorizations not being dsiplayed in acctviewer. Fixed Dradis & POV Trakt auth. Fixed an issue that was causing the Restore to Default Settings feature to fail.
 
-2.4.9 - Update Umbrella Trakt settings to enable trakt scrobble after auth. Update setting xml's
+2.4.9 - Update Umbrella Trakt settings to enable trakt scrobble after auth. Update setting xml's.
 
-2.4.8 - Fix error when auto-syncing Trakt with MyAccounts
+2.4.8 - Fix error when auto-syncing Trakt with MyAccounts.
 
 2.4.7 - Fixed the Account Expiry Notification for all debrid services. The user should now get a notification within 15 days of expiry if the service is enabled. Fix Homelander metadata error.
 
 2.4.6 - Removed Trakt service from settings. This service will now be auto enabled/disabled as required. Extensive cleanup behind the scenes to improve addon performance and functionality. Settings menu cleanup.
 
-2.4.5 - Remove depreciated Trakt API
+2.4.5 - Remove depreciated Trakt API.
 
-2.4.4 - Added a persistent Trakt Key section under the Advanced menu for builders to add their own custom keys. Keys added here are obfuscated with asterisks and will be persistent after build updates and revokes. Some minor bug fixes and cleanup
+2.4.4 - Added a persistent Trakt Key section under the Advanced menu for builders to add their own custom keys. Keys added here are obfuscated with asterisks and will be persistent after build updates and revokes. Some minor bug fixes and cleanup.
 
-2.4.3 - Fixed Trakt auth for TMDbH
+2.4.3 - Fixed Trakt auth for TMDbH.
 
-2.4.2 - Added Realizer and Premiumizer
+2.4.2 - Added Realizer and Premiumizer.
 
 2.4.1 - Added afFENity. Fixed Taz19 trakt auth. Fixed all-debrid revoke failing for Fen Light.
 
@@ -44,15 +46,15 @@
 
 2.3.4 - Added Coalition and Base19. Added new artwork. Fixed a bug preventing revoke of All-Debrid data.
 
-2.3.3 - Added 9 Lives and Black Lightning. Bug fixes
+2.3.3 - Added 9 Lives and Black Lightning. Bug fixes.
 
-2.3.2 - Removed addons with broken repos. Removed addons with restrictions. Added Seren Trakt support but with custom Trakt API keys only. Added Absolution. Multiple bug fixes and cleanup
+2.3.2 - Removed addons with broken repos. Removed addons with restrictions. Added Seren Trakt support but with custom Trakt API keys only. Added Absolution. Multiple bug fixes and cleanup.
 
 2.3.1 - Added support for Furk/Easynews/FilePursuit. Added support for some metadata dependencies (Embuary Info, Metahandler, PVR Artwork Module). Bug fixes and cleanup.
 
 2.3.0 - Added Support for Metadata accounts. Fixed an issue with the Restore to Default function.
 
-2.2.9 - Added a service to check for Account Manager updates. Moved changelog to Advanced category
+2.2.9 - Added a service to check for Account Manager updates. Moved changelog to Advanced category.
 
 2.2.8 - Fixed a small bug affected All-Debrid Authorizations.
 
@@ -64,7 +66,7 @@
 
 2.2.4 - Multiple small bugs fixed.
 
-2.2.3 - Fixed a bug preventing sync of certian add-ons
+2.2.3 - Fixed a bug preventing sync of certian add-ons.
 
 2.2.2 - Cleaned up backup/restore code adding some notifications so the user knows what is happening. Added a new menu item 'Information'. Bug fixes and clean up.
 
