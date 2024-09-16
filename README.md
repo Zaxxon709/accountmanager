@@ -73,9 +73,6 @@ RunScript(script.module.accountmgr, action=offcloudAuth)</p>
 <p>Trakt<br>
 RunScript(script.module.accountmgr, action=traktAuth)</p>
 
-<p>Simkl<br>
-RunScript(script.module.accountmgr, action=simklAuth)</p>
-
 <p>TMDb<br>
 RunScript(script.module.accountmgr, action=tmdbAuth)</p><br>
 
@@ -96,9 +93,6 @@ RunScript(script.module.accountmgr, action=offcloudReSync)</p>
 
 <p>Trakt<br>
 RunScript(script.module.accountmgr, action=traktReSync)</p>
-
-<p>Simkl<br>
-RunScript(script.module.accountmgr, action=simklReSync)</p>
 
 <p>Sync Multiple Debrid Accounts<br>
 RunScript(script.module.accountmgr, action=ReSyncAll)</p>
@@ -129,9 +123,6 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=easynews,return)</p>
 
 <p>Trakt<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=trakt,return)</p>
-
-<p>Simkl<br>
-ActivateWindow(10001,plugin://script.module.acctview/?mode=simkl,return)</p>
 
 <p>View Multiple Debrid Accounts<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p>
@@ -190,12 +181,13 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 22. M.E.T.V<br>
 23. Aliunde<br>
 24. Nightwing Lite<br>
-25. Otaku<br>
-26. Realizer<br>
-27. Premiumizer<br>
-28. All Accounts<br>
-29. My Accounts<br>
-30. ResolveURL	
+25. Chains Genocide<br>
+26. Otaku<br>
+27. Realizer<br>
+28. Premiumizer<br>
+29. All Accounts<br>
+30. My Accounts<br>
+31. ResolveURL	
 
 
 ### OffCloud

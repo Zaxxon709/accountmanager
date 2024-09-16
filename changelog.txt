@@ -1,3 +1,5 @@
+2.5.9 - Fix Chains Genocide debrid auth.
+
 2.5.8 - Fix Trakt for POV, Dradis and Chains Genocide. Fix Custom keys authorization menu.
 
 2.5.7 - Add fix for case sensitive plugin names.
