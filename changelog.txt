@@ -1,4 +1,6 @@
-2.6.0 - Fix POV Trakt indicators
+2.6.1 - Removed Ezra, Taz19, Unleashed, Twisted and Magic Dragon. Fix included in acctviewer to resolve TMDb API keys not displaying. Fix error with AllDebrid revoke. Fix acctviewer Genocide Trakt
+
+2.6.0 - Fix POV Trakt indicators.
 
 2.5.9 - Fix Chains Genocide debrid auth.
 

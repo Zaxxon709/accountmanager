@@ -161,33 +161,28 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 2.  Fen<br>
 3.  Fen Light<br>
 4.  afFENity<br>                  
-5.  Ezra<br>
-6.  The Coalition<br>
-7.  POV<br>                     
-8.  Umbrella<br>
-9.  Infinity<br>
-10. Dradis<br>
-11. Taz19<br>            
-12. Shadow<br>              
-13. Ghost<br>
-14. Base<br>                 
-15. Unleashed<br>             
-16. Chain Reaction<br>
-17. Twisted<br>
-18. Magic Dragon<br>
-19. Asgard<br>
-20. Patriot<br>
-21. Black Lightning<br>
-22. M.E.T.V<br>
-23. Aliunde<br>
-24. Nightwing Lite<br>
-25. Chains Genocide<br>
-26. Otaku<br>
-27. Realizer<br>
-28. Premiumizer<br>
-29. All Accounts<br>
-30. My Accounts<br>
-31. ResolveURL	
+5.  The Coalition<br>
+6.  POV<br>                     
+7.  Umbrella<br>
+8.  Infinity<br>
+9.  Dradis<br>        
+10. Shadow<br>              
+11. Ghost<br>
+12. Base<br>                            
+13. Chain Reaction<br>
+14. Asgard<br>
+15. Patriot<br>
+16. Black Lightning<br>
+17. M.E.T.V<br>
+18. Aliunde 19<br>
+19. Nightwing Lite<br>
+20. Chains Genocide<br>
+21. Otaku<br>
+22. Realizer<br>
+23. Premiumizer<br>
+24. All Accounts<br>
+25. My Accounts<br>
+26. ResolveURL	
 
 
 ### OffCloud
@@ -202,38 +197,34 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 2.  Fen<br>
 3.  Fen Light<br>
 4.  afFENity<br>
-5.  Ezra<br>
-6.  The Coalition<br>
-7.  POV<br>                  
-8.  Umbrella<br>
-9.  Infinity<br>
-10. Dradis<br>
-11. Taz19<br>
-12. Shadow<br>
-13. Ghost<br>
-14. Base<br>
-15. Unleashed<br>           
-16. Chain Reaction<br>
-17. Magic Dragon<br>
-18. Asgard<br>
-19. Patriot<br>
-20. Black Lightning<br>
-21. Aliunde K19<br>
-22. Nightwing Lite<br>
-23. Homelander<br>
-24. Quicksilver<br>
-25. Chains Genocide<br>
-26. Absolution<br>      
-27. Shazam<br>
-28. The Crew<br>              
-29. Alvin<br>
-30. Moria<br>
-31. Nine Lives<br>
-32. Scrubs V2<br>
-33. TMDb Helper<br>
-34. Trakt Add-on<br>
-35. All Accounts<br>
-36. My Accounts
+5.  The Coalition<br>
+6.  POV<br>                  
+7.  Umbrella<br>
+8.  Infinity<br>
+9.  Dradis<br>
+10. Shadow<br>
+11. Ghost<br>
+12. Base<br>         
+13. Chain Reaction<br>
+14. Asgard<br>
+15. Patriot<br>
+16. Black Lightning<br>
+17. Aliunde K19<br>
+18. Nightwing Lite<br>
+19. Homelander<br>
+20. Quicksilver<br>
+21. Chains Genocide<br>
+22. Absolution<br>      
+23. Shazam<br>
+24. The Crew<br>              
+25. Alvin<br>
+26. Moria<br>
+27. Nine Lives<br>
+28. Scrubs V2<br>
+29. TMDb Helper<br>
+30. Trakt Add-on<br>
+31. All Accounts<br>
+32. My Accounts
 
 
 ### Easynews
@@ -241,16 +232,14 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 1.  Fen<br>
 2.  Fen Light<br>
 3.  afFENity<br>
-4.  Ezra<br>
-5.  The Coalition<br>
-6.  POV<br>
-7.  Umbrella<br>
-9.  Infinity<br>
-9.  Dradis<br>
-10. Taz19<br>
-11. The Crew<br>
-12. All Accounts<br>
-13. My Accounts
+4.  The Coalition<br>
+5.  POV<br>
+6.  Umbrella<br>
+7.  Infinity<br>
+8.  Dradis<br>
+9.  The Crew<br>
+10. All Accounts<br>
+11. My Accounts
 
 
 ### FilePursuit
@@ -268,25 +257,23 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 2.  Fen<br>
 3.  Fen Light<br>
 4.  afFENity<br>
-5.  Ezra<br>
-6.  The Coalition<br>
-7.  POV<br>                   
-8.  Umbrella<br>
-9.  Infinity<br>
-10. Dradis<br>
-11. Taz19<br>
-12. The Crew<br> 
-13. Homelander<br>
-14. Quicksilver<br>
-15. Chains Genocide<br>           
-16. Shazam<br>
-17. Alvin<br>
-18. Moria<br>
-19. Absolution<br>
-20. Nine Lives<br>
-21. TMDb Helper<br>
-22. Embuary Info<br>
-23. Metahandler<br>
-24. PVR Artwork Module<br>
-25. All Accounts<br>
-26. My Accounts
+5.  The Coalition<br>
+6.  POV<br>                   
+7.  Umbrella<br>
+8.  Infinity<br>
+9.  Dradis<br>
+10. The Crew<br> 
+11. Homelander<br>
+12. Quicksilver<br>
+13. Chains Genocide<br>           
+14. Shazam<br>
+15. Alvin<br>
+16. Moria<br>
+17. Absolution<br>
+18. Nine Lives<br>
+19. TMDb Helper<br>
+20. Embuary Info<br>
+21. Metahandler<br>
+22. PVR Artwork Module<br>
+23. All Accounts<br>
+24. My Accounts
