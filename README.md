@@ -253,7 +253,7 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 
 ### Metadata
 
-1.  Seren<br>                  
+1.  Seren <br>                 
 2.  Fen<br>
 3.  Fen Light<br>
 4.  afFENity<br>
@@ -263,17 +263,21 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 8.  Infinity<br>
 9.  Dradis<br>
 10. The Crew<br> 
-11. Homelander<br>
+11. Homelander<br> 
 12. Quicksilver<br>
 13. Chains Genocide<br>           
 14. Shazam<br>
-15. Alvin<br>
-16. Moria<br>
-17. Absolution<br>
-18. Nine Lives<br>
-19. TMDb Helper<br>
-20. Embuary Info<br>
-21. Metahandler<br>
-22. PVR Artwork Module<br>
-23. All Accounts<br>
-24. My Accounts
+15. Nightwing Lite<br>
+16. Alvin<br>
+17. TheLab<br>
+18. Moria<br>
+19. Absolution<br>
+20. Nine Lives<br>
+21. TMDb Helper<br>
+22. Embuary Info<br>
+23. Metahandler<br>
+24. PVR Artwork Module<br>
+25. All Accounts<br>
+26. My Accounts<br>
+27. Fentastic Skin<br>
+28. Nimbus Skin
