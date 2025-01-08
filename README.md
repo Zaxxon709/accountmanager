@@ -58,6 +58,9 @@ IMPORTANT: If you have previously authorized Trakt via Account Manager but now w
 
 ### Authorize:<br>
 
+<p>Trakt<br>
+RunScript(script.module.accountmgr, action=traktAuth)</p>
+
 <p>Real-Debrid<br>
 RunScript(script.module.accountmgr, action=realdebridAuth)</p>
 
@@ -70,14 +73,14 @@ RunScript(script.module.accountmgr, action=alldebridAuth)</p>
 <p>OffCloud<br>
 RunScript(script.module.accountmgr, action=offcloudAuth)</p>
 
-<p>Trakt<br>
-RunScript(script.module.accountmgr, action=traktAuth)</p>
-
 <p>TMDb<br>
 RunScript(script.module.accountmgr, action=tmdbAuth)</p><br>
 
 
 ### Sync:<br>
+
+<p>Trakt<br>
+RunScript(script.module.accountmgr, action=traktReSync)</p>
 
 <p>Real-Debrid<br>
 RunScript(script.module.accountmgr, action=realdebridReSync)</p>
@@ -88,14 +91,17 @@ RunScript(script.module.accountmgr, action=premiumizeReSync)</p>
 <p>AllDebrid<br>
 RunScript(script.module.accountmgr, action=alldebridReSync)</p>
 
-<p>OffCloud<br>
-RunScript(script.module.accountmgr, action=offcloudReSync)</p>
-
-<p>Trakt<br>
-RunScript(script.module.accountmgr, action=traktReSync)</p>
-
 <p>Sync Multiple Debrid Accounts<br>
 RunScript(script.module.accountmgr, action=ReSyncAll)</p>
+
+<p>TorBox<br>
+RunScript(script.module.accountmgr, action=torboxReSync)</p>
+
+<p>Easy Debrid<br>
+RunScript(script.module.accountmgr, action=easydebridReSync)</p>
+
+<p>OffCloud<br>
+RunScript(script.module.accountmgr, action=offcloudReSync)</p>
 
 <p>Easynews<br>
 RunScript(script.module.accountmgr, action=easynewsReSync)</p>
@@ -109,6 +115,9 @@ RunScript(script.module.accountmgr, action=metaReSync)</p><br>
 
 ### View Authorized Addons:<br>
 
+<p>Trakt<br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=trakt,return)</p>
+
 <p>Real-Debrid<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=realdebrid,return)</p>
 
@@ -118,14 +127,17 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=premiumize,return)</p
 <p>AllDebrid<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=alldebrid,return)</p>
 
-<p>OffCloud<br>
-ActivateWindow(10001,plugin://script.module.acctview/?mode=easynews,return)</p>
-
-<p>Trakt<br>
-ActivateWindow(10001,plugin://script.module.acctview/?mode=trakt,return)</p>
-
 <p>View Multiple Debrid Accounts<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=allaccts,return)</p>
+
+<p>TorBox<br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=torbox,return)</p>
+
+<p>Easy Debrid<br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=easydebrid,return)</p>
+
+<p>OffCloud<br>
+ActivateWindow(10001,plugin://script.module.acctview/?mode=offcloud,return)</p>
 
 <p>Easynews<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=easynews,return)</p>
@@ -142,16 +154,19 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 1.  Real-Debrid<br>
 2.  Premiumize<br>
 3.  All-Debrid<br>
-4.  OffCloud
-5.  Trakt<br>
-6.  Easynews<br>
-7.  FilePursuit<br>
-8.  Fanart.TV<br>
-9.  OMDb<br>
-10. MDbList<br>
-11. IMDb<br>
-12. TMDb<br>
-13. TVDb<br>
+4.  TorBox<br>
+5.  Easy Debrid<br>
+6.  OffCloud
+7.  Trakt<br>
+8.  Easynews<br>
+9.  FilePursuit<br>
+10. Fanart.TV<br>
+11. OMDb<br>
+12. MDbList<br>
+13. IMDb<br>
+14. TMDb<br>
+15. TVDb<br>
+
 
 ### Supported Addons:
 
@@ -159,36 +174,57 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 
 1.  Seren<br>                   
 2.  Fen<br>
-3.  Fen Light<br>
-4.  afFENity<br>                  
-5.  The Coalition<br>
-6.  POV<br>                     
-7.  Umbrella<br>
-8.  Infinity<br>
-9.  Dradis<br>        
-10. Shadow<br>              
-11. Ghost<br>
-12. Base<br>                            
-13. Chain Reaction<br>
-14. Asgard<br>
-15. Patriot<br>
-16. Black Lightning<br>
-17. M.E.T.V<br>
-18. Aliunde 19<br>
-19. Nightwing Lite<br>
-20. Chains Genocide<br>
-21. Otaku<br>
-22. Realizer<br>
-23. Premiumizer<br>
-24. All Accounts<br>
-25. My Accounts<br>
-26. ResolveURL	
+3.  Fen Light<br>               
+4.  The Coalition<br>
+5.  POV<br>                     
+6.  Umbrella<br>
+7.  Infinity<br>
+8.  Dradis<br>        
+9.  Shadow<br>              
+10. Ghost<br>
+11. Base<br>                            
+12. Chain Reaction<br>
+13. Asgard<br>
+14. Patriot<br>
+15. Black Lightning<br>
+16. M.E.T.V<br>
+17. Aliunde 19<br>
+18. Nightwing Lite<br>
+19. Chains Genocide<br>
+20. Otaku<br>
+21. Realizer<br>
+22. Premiumizer<br>
+23. All Accounts<br>
+24. My Accounts<br>
+25. ResolveURL	
+
+
+### TorBox
+
+1. Fen Light<br>
+2. Umbrella<br>
+3. POV<br>
+4. Infinity<br>
+5. Dradis<br>
+6. Otaku
+
+
+### Easy Debrid
+
+1. Fen Light<br>
+2. Umbrella<br>
+3. POV<br>
+4. Infinity<br>
+5. Dradis
 
 
 ### OffCloud
 
-1. POV<br>
-2. Dradis
+1. Fen Light<br>
+2. Umbrella<br>
+3. POV<br>
+4. Infinity<br>
+5. Dradis
 
 
 ### Trakt
@@ -196,50 +232,48 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 1.  Seren (Custom Trakt API Keys Only)<br>
 2.  Fen<br>
 3.  Fen Light<br>
-4.  afFENity<br>
-5.  The Coalition<br>
-6.  POV<br>                  
-7.  Umbrella<br>
-8.  Infinity<br>
-9.  Dradis<br>
-10. Shadow<br>
-11. Ghost<br>
-12. Base<br>         
-13. Chain Reaction<br>
-14. Asgard<br>
-15. Patriot<br>
-16. Black Lightning<br>
-17. Aliunde K19<br>
-18. Nightwing Lite<br>
-19. Homelander<br>
-20. Quicksilver<br>
-21. Chains Genocide<br>
-22. Absolution<br>      
-23. Shazam<br>
-24. The Crew<br>              
-25. Alvin<br>
-26. Moria<br>
-27. Nine Lives<br>
-28. Scrubs V2<br>
-29. TMDb Helper<br>
-30. Trakt Add-on<br>
-31. All Accounts<br>
-32. My Accounts
+4.  The Coalition<br>
+5.  POV<br>                  
+6.  Umbrella<br>
+7.  Infinity<br>
+8.  Dradis<br>
+9.  Shadow<br>
+10. Ghost<br>
+11. Base<br>         
+12. Chain Reaction<br>
+13. Asgard<br>
+14. Patriot<br>
+15. Black Lightning<br>
+16. Aliunde K19<br>
+17. Nightwing Lite<br>
+18. Homelander<br>
+19. Quicksilver<br>
+20. Chains Genocide<br>
+21. Absolution<br>      
+22. Shazam<br>
+23. The Crew<br>              
+24. Alvin<br>
+25. Moria<br>
+26. Nine Lives<br>
+27. Scrubs V2<br>
+28. TMDb Helper<br>
+29. Trakt Add-on<br>
+30. All Accounts<br>
+31. My Accounts
 
 
 ### Easynews
 
 1.  Fen<br>
 2.  Fen Light<br>
-3.  afFENity<br>
-4.  The Coalition<br>
-5.  POV<br>
-6.  Umbrella<br>
-7.  Infinity<br>
-8.  Dradis<br>
-9.  The Crew<br>
-10. All Accounts<br>
-11. My Accounts
+3.  The Coalition<br>
+4.  POV<br>
+5.  Umbrella<br>
+6.  Infinity<br>
+7.  Dradis<br>
+8.  The Crew<br>
+9.  All Accounts<br>
+10. My Accounts
 
 
 ### FilePursuit
@@ -256,28 +290,27 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 1.  Seren <br>                 
 2.  Fen<br>
 3.  Fen Light<br>
-4.  afFENity<br>
-5.  The Coalition<br>
-6.  POV<br>                   
-7.  Umbrella<br>
-8.  Infinity<br>
-9.  Dradis<br>
-10. The Crew<br> 
-11. Homelander<br> 
-12. Quicksilver<br>
-13. Chains Genocide<br>           
-14. Shazam<br>
-15. Nightwing Lite<br>
-16. Alvin<br>
-17. TheLab<br>
-18. Moria<br>
-19. Absolution<br>
-20. Nine Lives<br>
-21. TMDb Helper<br>
-22. Embuary Info<br>
-23. Metahandler<br>
-24. PVR Artwork Module<br>
-25. All Accounts<br>
-26. My Accounts<br>
-27. Fentastic Skin<br>
-28. Nimbus Skin
+4.  The Coalition<br>
+5.  POV<br>                   
+6.  Umbrella<br>
+7.  Infinity<br>
+8.  Dradis<br>
+9.  The Crew<br> 
+10. Homelander<br> 
+11. Quicksilver<br>
+12. Chains Genocide<br>           
+13. Shazam<br>
+14. Nightwing Lite<br>
+15. Alvin<br>
+16. TheLab<br>
+17. Moria<br>
+18. Absolution<br>
+19. Nine Lives<br>
+20. TMDb Helper<br>
+21. Embuary Info<br>
+22. Metahandler<br>
+23. PVR Artwork Module<br>
+24. All Accounts<br>
+25. My Accounts<br>
+26. Fentastic Skin<br>
+27. Nimbus Skin

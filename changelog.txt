@@ -1,4 +1,8 @@
-2.6.1 - Removed Ezra, Taz19, Unleashed, Twisted and Magic Dragon. Fix included in acctviewer to resolve TMDb API keys not displaying. Fix error with AllDebrid revoke. Fix acctviewer Genocide Trakt
+2.6.3 - Added Torbox, Easy Debrid, and external scraper support. Added Fen Light, Infinity, and Umbrella to Offcloud. Updated paths to support profiles. Removed Affenity. Bug fixes and improvements.
+
+2.6.2 - Fix update notification service. Fix Premiumize revoke failing. Add mdblist api support for Fentastic/Nimbus skins. Metadata bug fixes.
+
+2.6.1 - Removed Ezra, Taz19, Unleashed, Twisted and Magic Dragon. Fix included in acctviewer to resolve TMDb API keys not displaying. Fix error with AllDebrid revoke. Fix acctviewer Genocide Trakt.
 
 2.6.0 - Fix POV Trakt indicators.
 
