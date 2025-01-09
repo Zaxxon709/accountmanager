@@ -163,13 +163,13 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 
 ### Supported Services:
 
-1.  Real-Debrid<br>
-2.  Premiumize<br>
-3.  All-Debrid<br>
-4.  TorBox<br>
-5.  Easy Debrid<br>
-6.  OffCloud
-7.  Trakt<br>
+1.  Trakt<br>
+2.  Real-Debrid<br>
+3.  Premiumize<br>
+4.  All-Debrid<br>
+5.  TorBox<br>
+6.  Easy Debrid<br>
+7.  OffCloud
 8.  Easynews<br>
 9.  FilePursuit<br>
 10. Fanart.TV<br>
