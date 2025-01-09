@@ -70,8 +70,20 @@ RunScript(script.module.accountmgr, action=premiumizeAuth)</p>
 <p>AllDebrid<br>
 RunScript(script.module.accountmgr, action=alldebridAuth)</p>
 
+<p>TorBox<br>
+RunScript(script.module.accountmgr, action=torboxAuth)</p>
+
+<p>Easy Debrid<br>
+RunScript(script.module.accountmgr, action=easydebridAuth)</p>
+
 <p>OffCloud<br>
 RunScript(script.module.accountmgr, action=offcloudAuth)</p>
+
+<p>Easynews<br>
+RunScript(script.module.accountmgr, action=easynewsAuth)</p>
+
+<p>Filepursuit<br>
+RunScript(script.module.accountmgr, action=filepursuitAuth)</p>
 
 <p>TMDb<br>
 RunScript(script.module.accountmgr, action=tmdbAuth)</p><br>
