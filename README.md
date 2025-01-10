@@ -65,7 +65,7 @@ IMPORTANT: If you have previously authorized Trakt via Account Manager but now w
     <li>Use ONLY to restore all add-ons to default settings prior to using Account Manager.</li>
     <li>Open Account Manager and Navigate to the ‘Advanced’ category.</li>
     <li>Select ‘Restore Default Settings'</li>
-    <li>This action will revoke all services, reset all add-on settings back to default, and delete all your saved data</li>
+    <li>This action will revoke all services, reset all add-on settings back to default, and delete all your saved data</li></br>
 </ul>
 
 
