@@ -71,7 +71,7 @@ IMPORTANT: If you have previously authorized Trakt via Account Manager but now w
 
 ### Open Account Manager:
 
-<p>RunAddon(script.module.accountmgr)</p>
+<p>RunAddon(script.module.accountmgr)</p></br>
 
 
 ### Authorize:<br>
