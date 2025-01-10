@@ -71,7 +71,7 @@ IMPORTANT: If you have previously authorized Trakt via Account Manager but now w
 
 ### Open Account Manager:
 
-<p>RunAddon(script.module.accountmgr)</p><br>
+<p>RunAddon(script.module.accountmgr)</p>
 
 
 ### Authorize:<br>
@@ -104,7 +104,7 @@ RunScript(script.module.accountmgr, action=easynewsAuth)</p>
 RunScript(script.module.accountmgr, action=filepursuitAuth)</p>
 
 <p>TMDb<br>
-RunScript(script.module.accountmgr, action=tmdbAuth)</p><br>
+RunScript(script.module.accountmgr, action=tmdbAuth)</p>
 
 
 ### Sync:<br>
@@ -140,7 +140,7 @@ RunScript(script.module.accountmgr, action=easynewsReSync)</p>
 RunScript(script.module.accountmgr, action=filepursuitReSync)</p>
 
 <p>Metadata<br>
-RunScript(script.module.accountmgr, action=metaReSync)</p><br>
+RunScript(script.module.accountmgr, action=metaReSync)</p>
 
 
 ### View Authorized Addons:<br>
