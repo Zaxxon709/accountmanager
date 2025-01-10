@@ -104,7 +104,7 @@ RunScript(script.module.accountmgr, action=easynewsAuth)</p>
 RunScript(script.module.accountmgr, action=filepursuitAuth)</p>
 
 <p>TMDb<br>
-RunScript(script.module.accountmgr, action=tmdbAuth)</p>
+RunScript(script.module.accountmgr, action=tmdbAuth)</p></br>
 
 
 ### Sync:<br>
@@ -140,7 +140,7 @@ RunScript(script.module.accountmgr, action=easynewsReSync)</p>
 RunScript(script.module.accountmgr, action=filepursuitReSync)</p>
 
 <p>Metadata<br>
-RunScript(script.module.accountmgr, action=metaReSync)</p>
+RunScript(script.module.accountmgr, action=metaReSync)</p></br>
 
 
 ### View Authorized Addons:<br>
