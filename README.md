@@ -52,6 +52,25 @@ IMPORTANT: If you have previously authorized Trakt via Account Manager but now w
 </ul>
 
 
+### Supported Services:
+
+1.  Trakt<br>
+2.  Real-Debrid<br>
+3.  Premiumize<br>
+4.  All-Debrid<br>
+5.  TorBox<br>
+6.  Easy Debrid<br>
+7.  OffCloud
+8.  Easynews<br>
+9.  FilePursuit<br>
+10. Fanart.TV<br>
+11. OMDb<br>
+12. MDbList<br>
+13. IMDb<br>
+14. TMDb<br>
+15. TVDb<br>
+
+
 ### Open Account Manager:
 
 <p>RunAddon(script.module.accountmgr)</p><br>
@@ -160,24 +179,6 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=filepursuit,return)</
 <p>View Metadata Accounts<br>
 ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><br>
 
-
-### Supported Services:
-
-1.  Trakt<br>
-2.  Real-Debrid<br>
-3.  Premiumize<br>
-4.  All-Debrid<br>
-5.  TorBox<br>
-6.  Easy Debrid<br>
-7.  OffCloud
-8.  Easynews<br>
-9.  FilePursuit<br>
-10. Fanart.TV<br>
-11. OMDb<br>
-12. MDbList<br>
-13. IMDb<br>
-14. TMDb<br>
-15. TVDb<br>
 
 
 ### Supported Addons:
