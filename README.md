@@ -68,7 +68,7 @@ IMPORTANT: If you have previously authorized Trakt via Account Manager but now w
 12. MDbList<br>
 13. IMDb<br>
 14. TMDb<br>
-15. TVDb<br>
+15. TVDb<br><br>
 
 
 
