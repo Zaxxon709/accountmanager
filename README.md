@@ -71,9 +71,11 @@ IMPORTANT: If you have previously authorized Trakt via Account Manager but now w
 15. TVDb<br>
 
 
+
 ### Open Account Manager:
 
 <p>RunAddon(script.module.accountmgr)</p><br>
+
 
 ### Authorize:<br>
 
