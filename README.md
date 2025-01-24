@@ -79,11 +79,11 @@ IMPORTANT: If you have previously authorized Trakt via Account Manager but now w
 <p>Create Trakt Sync List<br>
 RunScript(script.module.accountmgr, action=traktSyncList)</p>
 
+<p>Authorize Trakt<br>
+RunScript(script.module.accountmgr, action=traktAuth)</p>
+
 <p>Edit Trakt Sync List & Re-Sync<br>
 RunScript(script.module.accountmgr, action=traktReSyncList)</p>
-
-<p>Trakt<br>
-RunScript(script.module.accountmgr, action=traktAuth)</p>
 
 <p>Real-Debrid<br>
 RunScript(script.module.accountmgr, action=realdebridAuth)</p>
