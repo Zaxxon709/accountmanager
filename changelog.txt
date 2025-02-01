@@ -1,3 +1,5 @@
+2.6.5 - Fix Auto-sync services that I broke in the last update. Update Trakt sync list authorization process.
+
 2.6.4 - Added custom Trakt Sync List creation. Sync only the add-ons you use to minimize Trakt API requests and stay within standard rate limits. Menu cleanup and more improvements behind the scenes.
 
 2.6.3 - Added Torbox, Easy Debrid, and external scraper support. Added Fen Light, Infinity, and Umbrella to Offcloud. Updated paths to support profiles. Removed Affenity. Bug fixes and improvements.
