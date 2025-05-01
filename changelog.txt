@@ -1,3 +1,5 @@
+2.6.6 - Fen Light AM and Fen Light+ are supported. Due to the developers keeping the original plugin name this required no editing. Updated Umbrella Trakt settings. Add 24hr Trakt refresh.
+
 2.6.5 - Fix Auto-sync services that I broke in the last update. Update Trakt sync list authorization process.
 
 2.6.4 - Added custom Trakt Sync List creation. Sync only the add-ons you use to minimize Trakt API requests and stay within standard rate limits. Menu cleanup and more improvements behind the scenes.
