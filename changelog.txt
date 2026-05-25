@@ -1,0 +1,27 @@
+1.1.1 - Added RD, PM and AD support for Seren. Added Easynews Video by Tutsuo. Fixed an error that could occur during add-on updates while AML startup services were active.
+
+1.1.0 - Removed Dradis. Fix Torbox QR dialog. Minor bug fixes.
+
+1.0.9 - Added Red Light, a FLAM fork by Red Wizard. Added QR Code for easy Torbox authorization.
+
+1.0.8 - Small fix for Umbrella Trakt indicators. Added a fix to sort Trakt issues arising from recent changes made to Fen Light.
+
+1.0.7 - Minor bug fixes. Updates to settings menu.
+
+1.0.6 - Added support for Trakt. Added Gratis Red, a Scrubs V2 fork by Red Wizard.
+
+1.0.5 - Removed Offcloud. Added MDBList. Added set Source Select/Autoplay to tools menu. Added the SALTS add-on by zeus768. Minor bug fixes. Updated artwork.
+
+1.0.4 - Minor bug fixes. 
+
+1.0.3 - Minor update to settings menu.
+
+1.0.2 - Fix Torbox authorization
+
+1.0.1 - Minor bug fixes.
+
+1.0.0 - Initial Release. 
+
+ *** Account Manager completely restructured ***
+
+Cheers to any Kodi enthusiasts who have helped me along the way, supporters, positive thinkers and anyone who has dedicated some of their spare time to this community!
