@@ -97,13 +97,9 @@ RunScript(script.module.acctmgr, action=extViewer)<br>
 RunScript(script.module.acctmgr, action=extInstall)<br>
 
 
-### Install TMdB Helper Players:
+### Install/Uninstall TMdB Helper Players:
 
 RunScript(script.module.acctmgr, action=setPLAYER)<br>
-
-
-### Uninstall TMdB Helper Players:
-
 RunScript(script.module.acctmgr, action=delPLAYER)<br>
 
 
@@ -114,10 +110,7 @@ RunScript(script.module.acctmgr, action=setHD)<br>
 RunScript(script.module.acctmgr, action=setSD)<br>
 
 
-### Set Source Select:
+### Set Source Select/Autoplay:
 
 RunScript(script.module.acctmgr, action=setDIR)<br>
-
-### Set Autoplay:
-
 RunScript(script.module.acctmgr, action=setAUTO)<br>
