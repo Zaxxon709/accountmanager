@@ -97,6 +97,16 @@ RunScript(script.module.acctmgr, action=extViewer)<br>
 RunScript(script.module.acctmgr, action=extInstall)<br>
 
 
+### Install TMdB Helper Players:
+
+RunScript(script.module.acctmgr, action=setPLAYER)<br>
+
+
+### Uninstall TMdB Helper Players:
+
+RunScript(script.module.acctmgr, action=delPLAYER)<br>
+
+
 ### Set Max Resolution:
 
 RunScript(script.module.acctmgr, action=setUHD)<br>
@@ -107,7 +117,6 @@ RunScript(script.module.acctmgr, action=setSD)<br>
 ### Set Source Select:
 
 RunScript(script.module.acctmgr, action=setDIR)<br>
-
 
 ### Set Autoplay:
 

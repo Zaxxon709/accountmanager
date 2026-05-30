@@ -1,3 +1,5 @@
+1.1.2 - Added a new section under tools for managing TMDb Helper players. Removed support for The Coalition add-on
+
 1.1.1 - Added RD, PM and AD support for Seren. Added Easynews Video by Tutsuo. Fixed an error that could occur during add-on updates while AML startup services were active.
 
 1.1.0 - Removed Dradis. Fix Torbox QR dialog. Minor bug fixes.

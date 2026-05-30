@@ -5,16 +5,15 @@
 4.  Umbrella
 5.  POV
 6.  Seren
-7.  The Coalition (Premiumize Only)
-8.  Genocide
-9.  Shadow
-10. Ghost
-11. The Chains
-12. SALTS                  
-13. Otaku
-14. Realizer
-15. Premiumizer
-16. ResolveURL (Supported Add-ons)			
+7.  Genocide
+8.  Shadow
+9.  Ghost
+10. The Chains
+11. SALTS                  
+12. Otaku
+13. Realizer
+14. Premiumizer
+15. ResolveURL (Supported Add-ons)			
 						
 						
 						

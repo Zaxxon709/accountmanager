@@ -4,16 +4,15 @@
 3.  Red Light
 4.  Umbrella
 5.  POV
-6.  The Coalition
-7.  Genocide                  
-8.  Shadow
-9.  Ghost            
-10. Homelander
-11. Nightwing
-12. Jokers Absolution
-13. The Crew
-14. SALTS
-15. Scrubs V2
-16. Gratis Red
-17. TMDb Helper
-18. Trakt Add-on
+6.  Genocide                  
+7.  Shadow
+8.  Ghost            
+9.  Homelander
+10. Nightwing
+11. Jokers Absolution
+12. The Crew
+13. SALTS
+14. Scrubs V2
+15. Gratis Red
+16. TMDb Helper
+17. Trakt Add-on
