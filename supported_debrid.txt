@@ -13,7 +13,7 @@
 12. Otaku
 13. Realizer
 14. Premiumizer
-15. ResolveURL (Supported Add-ons)			
+15. ResolveURL		
 						
 						
 						
