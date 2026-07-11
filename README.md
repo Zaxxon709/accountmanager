@@ -23,7 +23,8 @@ A utility designed to centralize the authorization of various third-party stream
 4.  Premiumize<br>
 5.  All-Debrid<br>
 6.  TorBox<br>
-7.  Easynews<br><br>
+7.  OffCloud<br>
+8.  Easynews<br><br>
 
 
 ### Open Account Manager Lite:
@@ -47,6 +48,7 @@ RunScript(script.module.acctmgr, action=realdebridAuth)<br>
 RunScript(script.module.acctmgr, action=premiumizeAuth)<br>
 RunScript(script.module.acctmgr, action=alldebridAuth)<br>
 RunScript(script.module.acctmgr, action=torboxAuth)<br>
+RunScript(script.module.acctmgr, action=offcloudAuth)<br>
 RunScript(script.module.acctmgr, action=easynewsAuth)<br>
 
 
@@ -58,8 +60,8 @@ RunScript(script.module.acctmgr, action=realdebridReSync)<br>
 RunScript(script.module.acctmgr, action=premiumizeReSync)<br>
 RunScript(script.module.acctmgr, action=alldebridReSync)<br>
 RunScript(script.module.acctmgr, action=torboxReSync)<br>
+RunScript(script.module.acctmgr, action=offcloudReSync)<br>
 RunScript(script.module.acctmgr, action=easynewsReSync)<br>
-RunScript(script.module.acctmgr, action=extReSync)<br>
 
 
 ### Revoke Service:
@@ -70,6 +72,7 @@ RunScript(script.module.acctmgr, action=realdebridRevoke)<br>
 RunScript(script.module.acctmgr, action=premiumizeRevoke)<br>
 RunScript(script.module.acctmgr, action=alldebridRevoke)<br>
 RunScript(script.module.acctmgr, action=torboxRevoke)<br>
+RunScript(script.module.acctmgr, action=offcloudRevoke)<br>
 RunScript(script.module.acctmgr, action=easynewsRevoke)<br>
 
 
@@ -86,16 +89,11 @@ RunScript(script.module.acctmgr, action=realdebridViewer)<br>
 RunScript(script.module.acctmgr, action=premiumizeViewer)<br>
 RunScript(script.module.acctmgr, action=alldebridViewer)<br>
 RunScript(script.module.acctmgr, action=torboxViewer)<br>
+RunScript(script.module.acctmgr, action=offcloudViewer)
 RunScript(script.module.acctmgr, action=easynewsViewer)<br>
-RunScript(script.module.acctmgr, action=extViewer)<br>
 
 
 # Tools:
-
-### Install External Scrapers:
-
-RunScript(script.module.acctmgr, action=extInstall)<br>
-
 
 ### Set Max Resolution:
 
