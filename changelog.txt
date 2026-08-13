@@ -1,3 +1,5 @@
+1.1.6 - Fixed TorBox and OffCloud startup sync failing due to incorrect token mapping.
+
 1.1.5 - Added OffCloud support. Removed External Scraper support. Added Easynews support for The Crew and Otaku. General cleanup and bug fixes.
 
 1.1.4 - Resolved an issue with The Crew Trakt authorization.
