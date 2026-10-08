@@ -1,3 +1,5 @@
+1.2.0 - Added support for Prism, Luc_Kodi, and Fen Light+. Added Offcloud support for ResolveURL. Re-added Seren Trakt support. Updated device authorization flows to use QR code authentication [Special thanks to DevGeniusCode for his work on this!]. Updated Trakt authentication and token refresh handling for the newer 7-day access token lifetime. Expanded MDBList integration to support both OAuth/QR authorization and API key authentication. Replaced Kodi dialogs with custom XML-based dialogs. General code cleanup and minor bug fixes.
+
 1.1.6 - Fixed TorBox and OffCloud startup sync failing due to incorrect token mapping.
 
 1.1.5 - Added OffCloud support. Removed External Scraper support. Added Easynews support for The Crew and Otaku. General cleanup and bug fixes.

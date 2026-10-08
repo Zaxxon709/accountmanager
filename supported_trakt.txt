@@ -1,18 +1,21 @@
 
 1.  Fen Light
-2.  The Gears
-3.  Red Light
-4.  Umbrella
-5.  POV
-6.  Genocide                  
-7.  Shadow
-8.  Ghost            
-9.  Homelander
-10. Nightwing
-11. Absolution
-12. The Crew
-13. SALTS
-14. Scrubs V2
-15. Gratis Red
-16. TMDb Helper
-17. Trakt Add-on
+2.  Fen Light+
+3.  The Gears
+4.  Red Light
+5.  Umbrella
+6.  POV
+7.  Genocide
+8.  Seren
+9.  Luc_Kodi
+10. Shadow
+11. Ghost
+12. Homelander
+13. Nightwing
+14. Absolution
+15. The Crew
+16. SALTS
+17. Scrubs V2
+18. Gratis Red
+19. TMDb Helper
+20. Trakt Add-on

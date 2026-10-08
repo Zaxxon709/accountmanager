@@ -1,38 +1,19 @@
 
 1.  Fen Light
-2.  The Gears
-3.  Red Light
-4.  Umbrella
-5.  POV
-6.  Seren
+2.  Fen Light+
+3.  The Gears
+4.  Red Light
+5.  Umbrella
+6.  POV
 7.  Genocide
-8.  Shadow
-9.  Ghost
-10. The Chains
-11. SALTS                  
-12. Otaku
-13. Realizer
-14. Premiumizer
-15. ResolveURL		
-						
-						
-						
-						
-						
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+8.  Seren
+9.  Luc_Kodi
+10. Prism
+11. Shadow
+12. Ghost
+13. The Chains
+14. SALTS
+15. Otaku
+16. ResolveURL
+17. Premiumizer
+18. Realizer
