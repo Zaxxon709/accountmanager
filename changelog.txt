@@ -1,4 +1,4 @@
-1.2.0a - Fix Seren Trakt authorization to support both official and Diggz forked version.
+1.2.1 - Added support for a4kStreaming. Added Trakt support for Mad Titan Sports. Improved Trakt startup synchronization. Other minor fixes and stability improvements.
 
 1.2.0 - Added support for Prism, Luc_Kodi, and Fen Light+. Added Offcloud support for ResolveURL. Re-added Seren Trakt support. Updated device authorization flows to use QR code authentication [Special thanks to DevGeniusCode for his work on this!]. Updated Trakt authentication and token refresh handling for the newer 7-day access token lifetime. Expanded MDBList integration to support both OAuth/QR authorization and API key authentication. Replaced Kodi dialogs with custom XML-based dialogs. General code cleanup and minor bug fixes.
 
